@@ -1,42 +1,3403 @@
 {
   "authorDailyContributionsMap": {
-    "ongspxm": [
+    "Tian Xueyan": [
+      {
+        "insertions": 5,
+        "deletions": 2,
+        "date": "2019-01-04",
+        "commitResults": [
+          {
+            "hash": "019ab8ba1d3058e05f09d48f41d5ec51a9c40570",
+            "message": "[#452] HotFix: GitLogTest fails due to system time \u003e\u003d 2019  (#455)",
+            "insertions": 5,
+            "deletions": 2
+          }
+        ]
+      }
+    ],
+    "Ronak Lakhotia": [
       {
         "insertions": 1,
         "deletions": 1,
-        "date": "2018-05-26",
+        "date": "2018-12-15",
         "commitResults": [
           {
-            "hash": "7278855e14451cee6eb8cafc29086d7afde715f6",
-            "message": "[#21] Ramp chart: optimize vertical space (#109)",
+            "hash": "7d6c345999ad9e7759f0ff0cd7fec8e5c8982efb",
+            "message": "[#411] DeveloperGuide: update outdated gradle command in setup (#416)",
             "insertions": 1,
             "deletions": 1
           }
         ]
       },
       {
-        "insertions": 20,
+        "insertions": 2,
+        "deletions": 6,
+        "date": "2018-12-16",
+        "commitResults": [
+          {
+            "hash": "5a72db91cffb6e6d02fe151905a6f13b52084e90",
+            "message": "[#394] Report#Toolbar: remove lowercase conversion in search bar (#420)",
+            "insertions": 2,
+            "deletions": 6
+          }
+        ]
+      }
+    ],
+    "James Pang": [
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-05-17",
+        "commitResults": [
+          {
+            "hash": "adb48f4e903be700b33b953457ca5b69df4908e8",
+            "message": "[#652] ChartView: fix url directing to wrong repository (#655)",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-05-31",
+        "commitResults": [
+          {
+            "hash": "3bbe5fccfc04aeb2742d814fef4fb8f534f3b55e",
+            "message": "[#672] Toolbar: set \u0027commit\u0027 as default for granularity (#684)",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3bf07fd69586874cf3238e9b28ea025b96f7ba97",
+            "message": "[#699] Report: standardize the author\u0027s name display (#701)",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 32,
+        "deletions": 2,
+        "date": "2019-06-03",
+        "commitResults": [
+          {
+            "hash": "7c0750c510003722f72ad363cb50ce759aa6735a",
+            "message": "[#635] CodeView: add line number to code (#669)",
+            "insertions": 32,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 38,
+        "deletions": 17,
+        "date": "2019-06-05",
+        "commitResults": [
+          {
+            "hash": "ad1e0265a549888e25fc4b94759cca4bea575785",
+            "message": "[#702] Fix url directing to the wrong branch (#704)",
+            "insertions": 18,
+            "deletions": 10
+          },
+          {
+            "hash": "afa5be94ea35410ed126c2958024696a62d4fa2e",
+            "message": "[#664] Toolbar: expand width for `breakdown by file format` (#685)",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "eb9c7460a0e7672bff50c5e0708cb1ff0ed5b329",
+            "message": "[#663] ChartView: add total contribution of group (#697)",
+            "insertions": 14,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 36,
+        "deletions": 42,
+        "date": "2019-06-10",
+        "commitResults": [
+          {
+            "hash": "f96222a79167a55bb30fc9ced940b8660ef72425",
+            "message": "[#647] Toolbar: rename values in `sort group by` (#668)",
+            "insertions": 36,
+            "deletions": 42
+          }
+        ]
+      },
+      {
+        "insertions": 34,
+        "deletions": 24,
+        "date": "2019-06-11",
+        "commitResults": [
+          {
+            "hash": "0d3ba8a7da3f4c97014ece0805bef0d1e40799b9",
+            "message": "[#660] ChartView: remove ramp slices not within date range (#670)",
+            "insertions": 34,
+            "deletions": 24
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 0,
+        "date": "2019-06-15",
+        "commitResults": [
+          {
+            "hash": "27152fb10573899b79fe93ffc2e211329ce9a4fc",
+            "message": "[#712] ChartView: fix misalignment of chart title (#715)",
+            "insertions": 2,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 10,
+        "date": "2019-06-16",
+        "commitResults": [
+          {
+            "hash": "5a405e1be35dc5ae8ccf832dd5caf27a94f699d4",
+            "message": "[#689] v_summary.js: remove unused remnants code (#733)",
+            "insertions": 0,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 36,
+        "deletions": 22,
+        "date": "2019-06-26",
+        "commitResults": [
+          {
+            "hash": "194bd125a57a63f2e764a348b7549f9bba18213e",
+            "message": "[#645] CodeView: improve UI of sort bar (#716)",
+            "insertions": 28,
+            "deletions": 19
+          },
+          {
+            "hash": "5ad348098a9baa2effea7646bf0463da8cae5dd2",
+            "message": "[#720] Set command-click to activate zoom-in feature for macOS devices (#730)",
+            "insertions": 8,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 35,
+        "deletions": 10,
+        "date": "2019-06-27",
+        "commitResults": [
+          {
+            "hash": "8591328fbf84af35f2943756ae3f2a6fed8f67ef",
+            "message": "[#666] CodeView: load un-authored code only when toggled (#740)",
+            "insertions": 35,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-06-28",
+        "commitResults": [
+          {
+            "hash": "d09194c65d9016c56dfc11d341b91cde5c0d1503",
+            "message": "[#741] Fix view code icon not opening CodeView (#744)",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-06-29",
+        "commitResults": [
+          {
+            "hash": "63ca0a11c8351729866d181a152742b2333c987d",
+            "message": "[#680] Vue: fix error message in development mode (#742)",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 68,
+        "deletions": 21,
+        "date": "2019-07-03",
+        "commitResults": [
+          {
+            "hash": "651df45df4d9a91cf5557aabc030c309e93f20de",
+            "message": "[#770] Add placeholder for repositories with no author found (#777)",
+            "insertions": 68,
+            "deletions": 21
+          }
+        ]
+      },
+      {
+        "insertions": 69,
+        "deletions": 72,
+        "date": "2019-07-04",
+        "commitResults": [
+          {
+            "hash": "61be4e20b1af8e9eb1832fa5afa89bf7fe155f5a",
+            "message": "[#312] CodeView: reduce space taken by toggle icon (#773)",
+            "insertions": 69,
+            "deletions": 72
+          }
+        ]
+      },
+      {
+        "insertions": 29,
+        "deletions": 7,
+        "date": "2019-07-10",
+        "commitResults": [
+          {
+            "hash": "e3dc5d13cd231f26062bcc9fd5cf22ffaed32b9d",
+            "message": "[#748] Restore authorship tab (#749)",
+            "insertions": 29,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 5,
+        "date": "2019-07-14",
+        "commitResults": [
+          {
+            "hash": "d45513d6692248bfa38808e3b045b4ce51039c0c",
+            "message": "[#791] CodeView: bugfix for unexpected colors in line numbers (#792)",
+            "insertions": 2,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 17,
+        "deletions": 2,
+        "date": "2019-07-17",
+        "commitResults": [
+          {
+            "hash": "255907108d29f67d4a08b91d36c8fe9a8368e7aa",
+            "message": "ChartView: highlight error messages in red (#790)",
+            "insertions": 16,
+            "deletions": 2
+          },
+          {
+            "hash": "674f87d83558ccdee29d8aadf42a9647624e2d30",
+            "message": "[#811] CodeView: fix position of toggle icons (#813)",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 807,
+        "deletions": 754,
+        "date": "2019-07-18",
+        "commitResults": [
+          {
+            "hash": "e8bf034aaf33fa1a59c8933ffaa22dfdf82048fb",
+            "message": "[#522] Implement style checker on .scss files (#803)",
+            "insertions": 807,
+            "deletions": 754
+          }
+        ]
+      }
+    ],
+    "Yong Hao TENG": [
+      {
+        "insertions": 0,
+        "deletions": 32,
+        "date": "2018-05-17",
+        "commitResults": [
+          {
+            "hash": "9200172371fa1cb70b256a8f48076e8562580d56",
+            "message": "[#70] Remove unused class Console (#108)",
+            "insertions": 0,
+            "deletions": 32
+          }
+        ]
+      },
+      {
+        "insertions": 201,
+        "deletions": 90,
+        "date": "2018-05-20",
+        "commitResults": [
+          {
+            "hash": "a97429dc07a67a674190923f4e748c69976d1ec2",
+            "message": "Apply single responsibility principle to frontend component (#99)",
+            "insertions": 201,
+            "deletions": 90
+          }
+        ]
+      },
+      {
+        "insertions": 368,
+        "deletions": 171,
+        "date": "2018-06-09",
+        "commitResults": [
+          {
+            "hash": "ec45509189bf4a07654e16b2466ad7fedb1d56bc",
+            "message": "Increase parsing capabilities using third-party library (#128)",
+            "insertions": 368,
+            "deletions": 171
+          }
+        ]
+      },
+      {
+        "insertions": 5,
+        "deletions": 4,
+        "date": "2018-06-11",
+        "commitResults": [
+          {
+            "hash": "f22c90cbf5e9fd85d2026884e0daa36e1ccb400e",
+            "message": "[#128] Fix failing ArgParser unit tests on Windows systems (#141)",
+            "insertions": 5,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 2541,
+        "deletions": 2248,
+        "date": "2018-06-18",
+        "commitResults": [
+          {
+            "hash": "d8e6cdf333f63119df6c4c7097742814b0a40925",
+            "message": "[#143] Enable macOS execution environment on Travis-CI (#144)",
+            "insertions": 10,
+            "deletions": 2
+          },
+          {
+            "hash": "c1cd11ae678c5e1e1ec79b0a6c0388b8ae4e23e9",
+            "message": "[#60] Simplify CSV configuration file format (#130)",
+            "insertions": 2531,
+            "deletions": 2246
+          }
+        ]
+      },
+      {
+        "insertions": 50,
+        "deletions": 63,
+        "date": "2018-07-02",
+        "commitResults": [
+          {
+            "hash": "b789ed919a642d36b12b0c1bc8831d1bb39f87a8",
+            "message": "Modification to accommodate netlify (#150)",
+            "insertions": 50,
+            "deletions": 63
+          }
+        ]
+      },
+      {
+        "insertions": 25,
+        "deletions": 20,
+        "date": "2018-07-16",
+        "commitResults": [
+          {
+            "hash": "d1ec823ca24763594b00279ca0b81a70e54ef797",
+            "message": "[#194] Fix invalid path when accessing jar resources (#196)",
+            "insertions": 25,
+            "deletions": 20
+          }
+        ]
+      },
+      {
+        "insertions": 127,
+        "deletions": 48,
+        "date": "2018-07-18",
+        "commitResults": [
+          {
+            "hash": "58e63c1c834afe587c28e03c952e8d98a320d7c1",
+            "message": "[#56] Add support for user-supplied file formats (#159)",
+            "insertions": 127,
+            "deletions": 48
+          }
+        ]
+      },
+      {
+        "insertions": 199,
+        "deletions": 142,
+        "date": "2018-07-23",
+        "commitResults": [
+          {
+            "hash": "5664a2a039cfc690c1f2bc78fe34e7a96dd9092b",
+            "message": "Allow location to be supplied into CSV Config File (#210)",
+            "insertions": 199,
+            "deletions": 142
+          }
+        ]
+      },
+      {
+        "insertions": 120269,
+        "deletions": 16,
+        "date": "2018-07-26",
+        "commitResults": [
+          {
+            "hash": "832dd728bbfa203d92e4548325d64d5a151c013f",
+            "message": "[#217] Support repository standalone configuration (#232)",
+            "insertions": 120269,
+            "deletions": 16
+          }
+        ]
+      },
+      {
+        "insertions": 135,
+        "deletions": 64,
+        "date": "2018-07-30",
+        "commitResults": [
+          {
+            "hash": "0b001e0804b89b354fef0fd9de1de57787435ca6",
+            "message": "[#245] Change -config to use a configuration folder (#249)",
+            "insertions": 135,
+            "deletions": 64
+          }
+        ]
+      },
+      {
+        "insertions": 274,
+        "deletions": 61,
+        "date": "2018-07-31",
+        "commitResults": [
+          {
+            "hash": "9fcb851ab540c8f411f1d8fcdeafb745fc363dc3",
+            "message": "Support git and disk location as CLI inputs (#241)",
+            "insertions": 274,
+            "deletions": 61
+          }
+        ]
+      },
+      {
+        "insertions": 36308,
+        "deletions": 56814,
+        "date": "2018-08-02",
+        "commitResults": [
+          {
+            "hash": "0aeef436ef696b713ca3460c8c0c62e8b39bd5a1",
+            "message": "[#244] Add repo file exclusion patterns to standalone config (#248)",
+            "insertions": 35893,
+            "deletions": 56664
+          },
+          {
+            "hash": "fa6b680d6a13f9875969f0ed65aacf217d7546a1",
+            "message": "[#245] Split repo and author level configurations (#238)",
+            "insertions": 415,
+            "deletions": 150
+          }
+        ]
+      },
+      {
+        "insertions": 82,
+        "deletions": 5,
+        "date": "2018-08-03",
+        "commitResults": [
+          {
+            "hash": "42516d95bd6a5ea31302780a7b5993fb0e4e42c7",
+            "message": "[#275] Fix UnsupportedOperationException occurred during ignore glob list merge (#276)",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "d9c1f2d84fb5a40abf3d25de3120e0e97480a82f",
+            "message": "Fix creation of many author configs (#278)",
+            "insertions": 7,
+            "deletions": 3
+          },
+          {
+            "hash": "939d9baa52d7596111f97b3c27b573deb40fa855",
+            "message": "Add tests to RepoConfiguration#merge (#279)",
+            "insertions": 73,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 162,
+        "deletions": 50,
+        "date": "2018-08-11",
+        "commitResults": [
+          {
+            "hash": "51397d39152086b17b01c78e6ece9fb06c8bde30",
+            "message": "Add functionality to ignore standalone config #272 (#288)",
+            "insertions": 162,
+            "deletions": 50
+          }
+        ]
+      },
+      {
+        "insertions": 1817,
+        "deletions": 188208,
+        "date": "2018-08-29",
+        "commitResults": [
+          {
+            "hash": "465acfeaa73530e9386f5aff6cfae864664c0b23",
+            "message": "[#271] Support specifying of file formats at repo level (#295)",
+            "insertions": 1817,
+            "deletions": 188208
+          }
+        ]
+      },
+      {
+        "insertions": 86,
+        "deletions": 2,
+        "date": "2018-09-02",
+        "commitResults": [
+          {
+            "hash": "9583ab23caa4a4d7c599d03faa0651b85f34d515",
+            "message": "[#317] Add repo as alias to repos in CLI  (#322)",
+            "insertions": 86,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 194,
+        "deletions": 6,
+        "date": "2018-10-14",
+        "commitResults": [
+          {
+            "hash": "0337d3666c13d7efbdc3a1ed65ab7155df856dfb",
+            "message": "[#366] Fix NullPointerException when accessing unfilled displayName in StandaloneConfig (#368)",
+            "insertions": 194,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 2,
+        "date": "2018-12-11",
+        "commitResults": [
+          {
+            "hash": "f5cfc81e5cee0c28c007453f32e47664dfe960b4",
+            "message": "[#413] Update Travis-CI configuration to fix pcre2 dependency (#414)",
+            "insertions": 0,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 130,
+        "deletions": 0,
+        "date": "2018-12-18",
+        "commitResults": [
+          {
+            "hash": "badbbc063ac8f3fca0073c0af0ca18ef8533b6cc",
+            "message": "[#402] Make StandaloneConfig foolproof to exceptions caused by trailing commas (#412)",
+            "insertions": 130,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 93,
+        "deletions": 0,
+        "date": "2019-01-27",
+        "commitResults": [
+          {
+            "hash": "572763e6690ffc40f92db7a54ff6dcd58e905c06",
+            "message": "[#23, #470] Use Travis-CI to automate publishing of report to GitHub Pages (#497)",
+            "insertions": 93,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 12,
+        "deletions": 10,
+        "date": "2019-02-04",
+        "commitResults": [
+          {
+            "hash": "cbccfbc5c4f89f36490bf2b12a1b98bc043bcca4",
+            "message": "[#527] Improve highlightjs usage to prevent report from lagging/crashing (#533)",
+            "insertions": 12,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 8,
+        "date": "2019-02-12",
+        "commitResults": [
+          {
+            "hash": "f86a52617ee8ab13cdf696c0e196fdc90cf5f778",
+            "message": "Remove redundant commands in Travis config (#551)",
+            "insertions": 6,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 3,
+        "date": "2019-02-17",
+        "commitResults": [
+          {
+            "hash": "9d19b75cbf36c47a50d419c1403875f2bafde02a",
+            "message": "[#537] build.gradle: fix files compilation order (#552)",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "c8b0fa6e4f670b073f5b52cc3cdeef7324a393ce",
+            "message": "[#537] build.gradle: change tasks dependencies to compileJava (#563)",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 1,
+        "date": "2019-02-20",
+        "commitResults": [
+          {
+            "hash": "afd231700b71029ecf2c57f54d083759d7f1fb12",
+            "message": "[#557] Travis: check scripts do not work in Travis macOS environment (#559)",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 18,
+        "deletions": 5,
+        "date": "2019-02-21",
+        "commitResults": [
+          {
+            "hash": "b3425d2f1d61074f6ae4cd4ef6c796d04885a6f3",
+            "message": "Downgrade to JDK8 in CIs (#556)",
+            "insertions": 18,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 1835,
+        "deletions": 1,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "c94360eb807f60d22601ec96944d391f82a36516",
+            "message": "[#480] Use Cypress to automate front-end testing (#555)",
+            "insertions": 1835,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 1,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "c777d70e7f275ae6375ed7d2891a711734bcf818",
+            "message": "[#584] Cypress: front-end test failing due to timeouts (#595)",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 196,
+        "deletions": 13,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "fed37581bbf17ae61a587256633be47924284b70",
+            "message": "[#391] GitLsTree: validate filepaths before cloning (#564)",
+            "insertions": 196,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 7,
+        "deletions": 7,
+        "date": "2019-04-20",
+        "commitResults": [
+          {
+            "hash": "5e556b9a4fdb892037da6395bf98606fbce52c64",
+            "message": "[#648]: .travis.yml: change oraclejdk8 to openjdk8 (#650)",
+            "insertions": 7,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 18,
+        "deletions": 3,
+        "date": "2019-06-10",
+        "commitResults": [
+          {
+            "hash": "3c6a148c07376ce2d2dc2a72b07588213cd574c2",
+            "message": "[#606] Enable use of deploy key for publishing (#732)",
+            "insertions": 18,
+            "deletions": 3
+          }
+        ]
+      }
+    ],
+    "Ming Yi": [
+      {
+        "insertions": 139,
+        "deletions": 39,
+        "date": "2019-01-05",
+        "commitResults": [
+          {
+            "hash": "562f630ff248523b0ea7fb1a17083cc62c67578f",
+            "message": "[#315] Make -view a flag to launch the report automatically after processing (#446)",
+            "insertions": 139,
+            "deletions": 39
+          }
+        ]
+      },
+      {
+        "insertions": 305,
+        "deletions": 149,
+        "date": "2019-02-05",
+        "commitResults": [
+          {
+            "hash": "ca3ac10683fc5e5858be1509ecdaa94ea27d7174",
+            "message": "[#457] Split author level configurations from RepoConfiguration (#499)",
+            "insertions": 305,
+            "deletions": 149
+          }
+        ]
+      },
+      {
+        "insertions": 31,
+        "deletions": 13,
+        "date": "2019-02-12",
+        "commitResults": [
+          {
+            "hash": "0a1e9501a23ff075811fc38a2bb49f7d1116299e",
+            "message": "[#476] CLI: -view should not accept a PATH when used with -config or -repos (#541)",
+            "insertions": 31,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 323,
+        "deletions": 68,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "3c954ca0b3782008126b43c2ca3cfe30a322c8ea",
+            "message": "[#540] Perform cloning in parallel with analyzing (#560)",
+            "insertions": 323,
+            "deletions": 68
+          }
+        ]
+      },
+      {
+        "insertions": 160,
+        "deletions": 24,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "2c25cfd2cdbecd620d66139b2cd1e0cb2953b3bf",
+            "message": "[#390] repo-config.csv: provide override prefix (#602)",
+            "insertions": 160,
+            "deletions": 24
+          }
+        ]
+      },
+      {
+        "insertions": 49,
+        "deletions": 21,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "03b7d8bec45bb3c2e3161dad2132c9ee394c9456",
+            "message": "[#609] Console output: make logs clearer after cloning in parallel (#616)",
+            "insertions": 49,
+            "deletions": 21
+          }
+        ]
+      },
+      {
+        "insertions": 168,
+        "deletions": 71,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "42ff403e90b3e05d268ffd550abed54dd4dd5f9b",
+            "message": "[#337] RepoCloner: use single clone to analyze multiple branches of a repository (#625)",
+            "insertions": 92,
+            "deletions": 60
+          },
+          {
+            "hash": "f1e2b8a8c592055521fb26852f4436cc60d6b757",
+            "message": "[#613] author-config#email: include + operator infinite email matcher (#617)",
+            "insertions": 76,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 29,
+        "deletions": 0,
+        "date": "2019-04-27",
+        "commitResults": [
+          {
+            "hash": "b64711daa544288d8d69c86a0574b2179ce54a8c",
+            "message": "[#637] ContributionBar: length changes on breakdown option selected (#638)",
+            "insertions": 29,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 77,
+        "deletions": 6,
+        "date": "2019-05-16",
+        "commitResults": [
+          {
+            "hash": "49c46a4d746d212ce113813cc6fa630a18d55b74",
+            "message": "[#643] Fix GitBranch failure due to empty repos (#644)",
+            "insertions": 77,
+            "deletions": 6
+          }
+        ]
+      }
+    ],
+    "eugenepeh": [
+      {
+        "insertions": 38,
+        "deletions": 3,
+        "date": "2018-05-03",
+        "commitResults": [
+          {
+            "hash": "203b9f613c30e0b51c658af4b5e0f243b3e6ad23",
+            "message": "DeveloperGuide: add setup instructions",
+            "insertions": 38,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 695,
+        "deletions": 183,
+        "date": "2018-05-05",
+        "commitResults": [
+          {
+            "hash": "3a20d00fa1fd666648d9b07d26965205598fef78",
+            "message": "Setup travis to execute test code",
+            "insertions": 511,
+            "deletions": 0
+          },
+          {
+            "hash": "21a4d1d779944b2926e688543d704058d1bebb04",
+            "message": "Travis: add files standardization tests",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "e5db496348644ac49ad95cf61570c7a6f44fbacd",
+            "message": "Fix file standardization violations",
+            "insertions": 182,
+            "deletions": 182
+          }
+        ]
+      },
+      {
+        "insertions": 723,
+        "deletions": 729,
+        "date": "2018-05-06",
+        "commitResults": [
+          {
+            "hash": "c3184fed16f1849adc613f25732aa698fbc4fd55",
+            "message": "Checkstyle: temporary javadoc severity reduction",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "213c4ebbc4e4a1e2c1a181a8c7500e40c7d88c93",
+            "message": "Checkstyle: fix some violations 1",
+            "insertions": 116,
+            "deletions": 125
+          },
+          {
+            "hash": "04fa0b31e8823bd1123dec0e574afacbe00bc952",
+            "message": "Checkstyle: fix some violations 2",
+            "insertions": 115,
+            "deletions": 118
+          },
+          {
+            "hash": "2d1718d39fdd0ddf60ed3420ae0e833b03520f76",
+            "message": "Checkstyle: fix some violations 3",
+            "insertions": 110,
+            "deletions": 83
+          },
+          {
+            "hash": "d3e40705850b412f1b6c6106a372f0f65201d30b",
+            "message": "Checkstyle: fix some violations 4",
+            "insertions": 105,
+            "deletions": 100
+          },
+          {
+            "hash": "52d21b94e74e15ed2950861237f6fcc891018974",
+            "message": "Checkstyle: fix some violations 5",
+            "insertions": 102,
+            "deletions": 106
+          },
+          {
+            "hash": "dac1e7be406ff32fa256bb6892bd88ab308d2dce",
+            "message": "Checkstyle: fix some violations 6",
+            "insertions": 95,
+            "deletions": 100
+          },
+          {
+            "hash": "3f8aedddd19a1de1ea7abbfb26c9df15fe7bac2e",
+            "message": "Checkstyle: fix some violations 7",
+            "insertions": 67,
+            "deletions": 94
+          },
+          {
+            "hash": "d8a264aa4bb443a4526d8ae6ed11667e1b86c8ff",
+            "message": "Travis: add checkstyle to CI test",
+            "insertions": 10,
+            "deletions": 3
+          }
+        ]
+      }
+    ],
+    "He Zhenfeng": [
+      {
+        "insertions": 5,
+        "deletions": 5,
+        "date": "2018-12-18",
+        "commitResults": [
+          {
+            "hash": "8d1927fbd51d5c1760f24913bea12a6c6abf3df4",
+            "message": "[#30] Report#Toolbar: rename Team to Repo/Branch (#422)",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      }
+    ],
+    "Yash Chowdhary": [
+      {
+        "insertions": 40,
+        "deletions": 40,
+        "date": "2019-03-15",
+        "commitResults": [
+          {
+            "hash": "d426f09a3a5271d306c751803ec0d8ccabfdb87c",
+            "message": "[#554] Rename \u0027dashboard\u0027 instances to \u0027report\u0027 (#579)",
+            "insertions": 40,
+            "deletions": 40
+          }
+        ]
+      }
+    ],
+    "WANG CHAO": [
+      {
+        "insertions": 3,
+        "deletions": 0,
+        "date": "2018-12-20",
+        "commitResults": [
+          {
+            "hash": "cc58757ad43168ff309408f7cdfa356fd26ce1a6",
+            "message": "[#405] Code view: reset to top when loading new code view (#428)",
+            "insertions": 3,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 24,
+        "deletions": 13,
+        "date": "2018-12-23",
+        "commitResults": [
+          {
+            "hash": "7b0833049d12145e793dd587a299a86ea67455db",
+            "message": "[#396] Provide a link to repo even when not grouped by repo (#426)",
+            "insertions": 24,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 103,
+        "deletions": 9,
+        "date": "2019-01-07",
+        "commitResults": [
+          {
+            "hash": "0cc3f4d4d2dfa4d04b536e8a12d65a29e822acf9",
+            "message": "[#374] Add args to ignore standalone config in command line (#431)",
+            "insertions": 103,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 181,
+        "deletions": 28,
+        "date": "2019-01-19",
+        "commitResults": [
+          {
+            "hash": "dd635ea07f8ef6c5c6f857713989f2fb383dd6cf",
+            "message": "[#350] [Enhancement] author-config.csv: make repo\u0027s location optional field  (#441)",
+            "insertions": 181,
+            "deletions": 28
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 3,
+        "date": "2019-01-20",
+        "commitResults": [
+          {
+            "hash": "c818caeaa00b734c29a3670acd96d90ada485a1a",
+            "message": "[#481] Remove unused report folder (#489)",
+            "insertions": 0,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 33,
+        "deletions": 4,
+        "date": "2019-01-24",
+        "commitResults": [
+          {
+            "hash": "f99542ced732f64d2b6e07049dd608f6e4c9ff69",
+            "message": "[#466] CodeView: give link to history and blame views of each file (#490)",
+            "insertions": 33,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-02-04",
+        "commitResults": [
+          {
+            "hash": "afe3d4e295805a53ff7f5f715ec6376c801a8556",
+            "message": "[#534] Fix untouched code button failure (#536)",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 4,
+        "date": "2019-02-17",
+        "commitResults": [
+          {
+            "hash": "b8017858a69d498945d30a6743648526630e9ff9",
+            "message": "[#523] build.gradle: Fix checkstyle plugin failure in JDK11 (#530)",
+            "insertions": 2,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 423,
+        "deletions": 128,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "069fa7908112311795a1ad2eb14ddb5819d8bf17",
+            "message": "[#449, #479] ArgsParser: extract magic strings and follow a widely-used standard for CLI (#526)",
+            "insertions": 423,
+            "deletions": 128
+          }
+        ]
+      },
+      {
+        "insertions": 5,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": [
+          {
+            "hash": "741c36e4260a7940ba828d904379c4e2a995ad95",
+            "message": "README: add new project members (#582)",
+            "insertions": 5,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-08",
+        "commitResults": [
+          {
+            "hash": "c1134fce09c1f15ee3590ff82c00201f03b02767",
+            "message": "[#561] DashboardServer: Desktop#isDesktopSupported passes on headless systems (#580)",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 4,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "629e96c77c62e3e46c0654ea5fd3a759e5246fd6",
+            "message": "Checkstyle: update addresses of DTD files #586",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 146,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "15b270ce8bfa59166bf5449b32d50639eed00d38",
+            "message": "[#510] Remove unused Checkstyle analysis feature (#597)",
+            "insertions": 1,
+            "deletions": 146
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "df71dc3c93e3d4ef30697b9b3ce70a3ef8fe6334",
+            "message": "[#590] Add default title and icon for RepoSense (#612)",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 130,
+        "deletions": 16,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "25c0f18bbffdbe16c87d3bfc351aba1f49f5671d",
+            "message": "[#459] CLI: add args to choose any timezone (#496)",
+            "insertions": 130,
+            "deletions": 16
+          }
+        ]
+      },
+      {
+        "insertions": 41,
+        "deletions": 26,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "9b3ebfd90ded39bb3d5d611c07f119ad8e2e3990",
+            "message": "[#588] CodeView: align the checkboxes (#589)",
+            "insertions": 41,
+            "deletions": 26
+          }
+        ]
+      },
+      {
+        "insertions": 111,
+        "deletions": 266,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "9c03235315b31f062eefdfb291e7a6e0f5322bc8",
+            "message": "[#600] Integrate ci code coverage (#620)",
+            "insertions": 104,
+            "deletions": 58
+          },
+          {
+            "hash": "9d3fa322cb576d1e951ef37424f6153bb21a6e48",
+            "message": "[#619] Remove unused classes in functional code (#628)",
+            "insertions": 0,
+            "deletions": 199
+          },
+          {
+            "hash": "86c94fc292a51ce769df13657afb91bde04238ac",
+            "message": "RepoConfigurationTest: relocate to reposense.model (#629)",
+            "insertions": 7,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "17249eceebeff201288213d5e68a8cb5bd784e04",
+            "message": "Disable Codecov robot comment (#631)",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 31,
+        "deletions": 37,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "ccea6fdf38e5acdc57deb23b4ec34b7c969ea336",
+            "message": "[#599] CodeView: fix `All` checkbox indication failure (#611)",
+            "insertions": 5,
+            "deletions": 6
+          },
+          {
+            "hash": "0d043112f093c7e4326f3105806dc8775676f457",
+            "message": "[#581] CodeView#filter: add interactive selection switch (#608)",
+            "insertions": 26,
+            "deletions": 31
+          }
+        ]
+      },
+      {
+        "insertions": 66,
+        "deletions": 6,
+        "date": "2019-04-16",
+        "commitResults": [
+          {
+            "hash": "06171cd187e29c15c7baa8f0679753c226586f71",
+            "message": "[#503] CLI: add --version tag to show version of RepoSense (#565)",
+            "insertions": 66,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 49,
+        "deletions": 13,
+        "date": "2019-04-20",
+        "commitResults": [
+          {
+            "hash": "45b185c8506f56d3df14c2c973b6bf928d5c5e2b",
+            "message": "[#621] LogsManager: shift the log file to output folder (#632)",
+            "insertions": 49,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 14,
+        "deletions": 2,
+        "date": "2019-06-05",
+        "commitResults": [
+          {
+            "hash": "0742863af6084ace43a3db97c0bd5d644e99b5d8",
+            "message": " [#678] Report: use development version of vue.js (#679)",
+            "insertions": 14,
+            "deletions": 2
+          }
+        ]
+      }
+    ],
+    "Ma Tanghao": [],
+    "harryggg": [
+      {
+        "insertions": 1,
+        "deletions": 0,
+        "date": "2017-05-28",
+        "commitResults": [
+          {
+            "hash": "d70712482581e9fbf7c3b6da4d8c94c116746532",
+            "message": "Initial commit",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 249,
+        "deletions": 0,
+        "date": "2017-05-30",
+        "commitResults": [
+          {
+            "hash": "10d00723e20318c036e2199243a0f3f741834ccd",
+            "message": "add Blamer",
+            "insertions": 249,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 226,
+        "deletions": 84,
+        "date": "2017-06-03",
+        "commitResults": [
+          {
+            "hash": "130a36ee8733cdae053a04c35a51f2fac541d480",
+            "message": "refactor blamer",
+            "insertions": 226,
+            "deletions": 84
+          }
+        ]
+      },
+      {
+        "insertions": 115,
+        "deletions": 15,
+        "date": "2017-06-04",
+        "commitResults": [
+          {
+            "hash": "61d4e122cb2e9c47bdad97890b38f03bc3a063e7",
+            "message": "stylechecker",
+            "insertions": 115,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 160,
+        "deletions": 12,
+        "date": "2017-06-05",
+        "commitResults": [
+          {
+            "hash": "f2c99a81e1a004e711373d0daf8d935dba3126a2",
+            "message": "issue by author",
+            "insertions": 55,
+            "deletions": 12
+          },
+          {
+            "hash": "eca770a62c7fd115798e1f223016570808dca8da",
+            "message": "git logger",
+            "insertions": 105,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 36,
+        "deletions": 13,
+        "date": "2017-06-07",
+        "commitResults": [
+          {
+            "hash": "e62a215d5f8390127ee7c98e5e80a67d2fcfae89",
+            "message": "checkout and log",
+            "insertions": 36,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 186,
+        "deletions": 58,
+        "date": "2017-06-20",
+        "commitResults": [
+          {
+            "hash": "07f49bc5121d34dbd898360f9d3777842d20c25d",
+            "message": "method analyser",
+            "insertions": 186,
+            "deletions": 58
+          }
+        ]
+      },
+      {
+        "insertions": 257,
+        "deletions": 155,
+        "date": "2017-07-03",
+        "commitResults": [
+          {
+            "hash": "3c350253a82d0c4027181ce3ac17d274fd555e6f",
+            "message": "author contribution per commit",
+            "insertions": 257,
+            "deletions": 155
+          }
+        ]
+      },
+      {
+        "insertions": 429,
+        "deletions": 61,
+        "date": "2017-07-08",
+        "commitResults": [
+          {
+            "hash": "23927c87752ac5b5d5358b3e9124adce262d6e6c",
+            "message": "gradle",
+            "insertions": 276,
+            "deletions": 26
+          },
+          {
+            "hash": "98c11217ae07ef635da19ada7d7e86df98f5dff0",
+            "message": "report with line content",
+            "insertions": 153,
+            "deletions": 35
+          }
+        ]
+      },
+      {
+        "insertions": 280,
+        "deletions": 86,
+        "date": "2017-07-10",
+        "commitResults": [
+          {
+            "hash": "a69ce26447741692cb22f4ee2179a69fe3cc0c19",
+            "message": "git clone function",
+            "insertions": 123,
+            "deletions": 30
+          },
+          {
+            "hash": "0bd9631898b980742ce1ce973159588199c566ee",
+            "message": "incorporate clone",
+            "insertions": 48,
+            "deletions": 27
+          },
+          {
+            "hash": "734411cb8271fca9b0c15771600588262da8555b",
+            "message": "configuration class",
+            "insertions": 109,
+            "deletions": 29
+          }
+        ]
+      },
+      {
+        "insertions": 160,
+        "deletions": 0,
+        "date": "2017-07-12",
+        "commitResults": [
+          {
+            "hash": "f291e7e4a70775a07df641945c68e31f8aee0c0e",
+            "message": "frontend ui prototype(validation needed)",
+            "insertions": 160,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 22,
+        "deletions": 23,
+        "date": "2017-07-14",
+        "commitResults": [
+          {
+            "hash": "c5e54c8709a17f1118e6a8d302990ff4682d1fea",
+            "message": "checkbox",
+            "insertions": 22,
+            "deletions": 23
+          }
+        ]
+      },
+      {
+        "insertions": 41366,
+        "deletions": 22,
+        "date": "2017-07-29",
+        "commitResults": [
+          {
+            "hash": "a6695a771b5ce6e3a85795e67b4d0675e4c897c6",
+            "message": "basic template",
+            "insertions": 41366,
+            "deletions": 22
+          }
+        ]
+      },
+      {
+        "insertions": 16,
+        "deletions": 1,
+        "date": "2017-07-31",
+        "commitResults": [
+          {
+            "hash": "3c30ed14f1d4b4cff1566113a4a9685422f63c1f",
+            "message": "method uuid",
+            "insertions": 16,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 110,
+        "deletions": 18,
+        "date": "2017-08-02",
+        "commitResults": [
+          {
+            "hash": "aeb3d9d18fd3ca8bb77c45b8bf70fb611a6f7249",
+            "message": "ignore directories",
+            "insertions": 110,
+            "deletions": 18
+          }
+        ]
+      },
+      {
+        "insertions": 108,
+        "deletions": 22,
+        "date": "2017-08-06",
+        "commitResults": [
+          {
+            "hash": "ab6ec641b43ec59222a6632b9c6b8201560ab5cc",
+            "message": "annotation overrider",
+            "insertions": 108,
+            "deletions": 22
+          }
+        ]
+      },
+      {
+        "insertions": 50,
+        "deletions": 39,
+        "date": "2017-08-08",
+        "commitResults": [
+          {
+            "hash": "1985f32c1d55e02aee5d4b22a50e91c01dbdc1fe",
+            "message": "configuration builder instead of factory",
+            "insertions": 50,
+            "deletions": 39
+          }
+        ]
+      },
+      {
+        "insertions": 117,
+        "deletions": 87,
+        "date": "2017-08-15",
+        "commitResults": [
+          {
+            "hash": "ab91691d9d4afc2d4440b63ce850a00f2157caba",
+            "message": "code issue progress chart",
+            "insertions": 117,
+            "deletions": 87
+          }
+        ]
+      },
+      {
+        "insertions": 90,
+        "deletions": 35,
+        "date": "2017-08-20",
+        "commitResults": [
+          {
+            "hash": "de91bbdb32907059713ef84b96df5d1bbae6774b",
+            "message": "ignore user list",
+            "insertions": 90,
+            "deletions": 35
+          }
+        ]
+      },
+      {
+        "insertions": 109,
+        "deletions": 40,
+        "date": "2017-08-28",
+        "commitResults": [
+          {
+            "hash": "05689082cf037848b064a8c54aa1821a89dc73b9",
+            "message": "author selection panel",
+            "insertions": 109,
+            "deletions": 40
+          }
+        ]
+      },
+      {
+        "insertions": 101,
+        "deletions": 107,
+        "date": "2017-08-29",
+        "commitResults": [
+          {
+            "hash": "863f9b92731ca80306fc0dc30c3d2fad73219c61",
+            "message": "rewrite progress graph",
+            "insertions": 101,
+            "deletions": 107
+          }
+        ]
+      },
+      {
+        "insertions": 46,
+        "deletions": 22,
+        "date": "2017-09-08",
+        "commitResults": [
+          {
+            "hash": "584c1c68c4260e8f4059eab50245a7a9270ebdb7",
+            "message": "only show author\u0027s line",
+            "insertions": 46,
+            "deletions": 22
+          }
+        ]
+      },
+      {
+        "insertions": 30,
+        "deletions": 30,
+        "date": "2017-09-11",
+        "commitResults": [
+          {
+            "hash": "457efc1749aa15f90a426d2242d4eeabbd735730",
+            "message": "change ignore author to enlisted author",
+            "insertions": 30,
+            "deletions": 30
+          }
+        ]
+      },
+      {
+        "insertions": 39,
+        "deletions": 51,
+        "date": "2017-09-19",
+        "commitResults": [
+          {
+            "hash": "85cc05bb987d49cb00d5e3ab504c0fc4ce2c92f5",
+            "message": "fix display bug",
+            "insertions": 32,
+            "deletions": 14
+          },
+          {
+            "hash": "96e590610ced44c65890cb2964f53ab68508f6bf",
+            "message": "remove style check",
+            "insertions": 6,
+            "deletions": 29
+          },
+          {
+            "hash": "6097e0efcf586b35cc2d1a796635516d87ad95a9",
+            "message": "correct collate tag mechanism",
+            "insertions": 1,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 98,
+        "deletions": 61,
+        "date": "2017-09-20",
+        "commitResults": [
+          {
+            "hash": "adc24abea021aaf481d023a880729bb33e43d116",
+            "message": "addition/deletion",
+            "insertions": 66,
+            "deletions": 10
+          },
+          {
+            "hash": "54230f82a25643a2678c5b21c42afcd1b3114a2d",
+            "message": "redo line count",
+            "insertions": 32,
+            "deletions": 51
+          }
+        ]
+      },
+      {
+        "insertions": 325,
+        "deletions": 303,
+        "date": "2017-09-28",
+        "commitResults": [
+          {
+            "hash": "a1d34ff97f8c444582697b61fa011faaccd7be4a",
+            "message": "mass analysis",
+            "insertions": 325,
+            "deletions": 145
+          },
+          {
+            "hash": "df5b86c30ef82d95972f4cd6699bd91fb384809b",
+            "message": "remove old gitgrader",
+            "insertions": 0,
+            "deletions": 158
+          }
+        ]
+      },
+      {
+        "insertions": 339,
+        "deletions": 84,
+        "date": "2017-10-05",
+        "commitResults": [
+          {
+            "hash": "5af4e431a2f0f6ef626fd92f4d280850dd123879",
+            "message": "summary report",
+            "insertions": 339,
+            "deletions": 84
+          }
+        ]
+      },
+      {
+        "insertions": 234,
+        "deletions": 58,
+        "date": "2017-10-12",
+        "commitResults": [
+          {
+            "hash": "94f9a5d8063245aed74a4bedc3cb6bcd6c0fc9e5",
+            "message": "contribution progression bar chart",
+            "insertions": 225,
+            "deletions": 57
+          },
+          {
+            "hash": "356645f7a89fd21ae555f00a1164fa03aecee394",
+            "message": "more readable report name",
+            "insertions": 9,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 112,
+        "deletions": 45,
+        "date": "2017-10-16",
+        "commitResults": [
+          {
+            "hash": "f492aad320d1b323e93a615cf88806742cbc6d1c",
+            "message": "summarized results on main page",
+            "insertions": 112,
+            "deletions": 45
+          }
+        ]
+      },
+      {
+        "insertions": 297,
+        "deletions": 36,
+        "date": "2017-10-18",
+        "commitResults": [
+          {
+            "hash": "1810e62ddf4ed53a2f8566f4dc14319f54fac719",
+            "message": "detail result",
+            "insertions": 297,
+            "deletions": 36
+          }
+        ]
+      },
+      {
+        "insertions": 26,
+        "deletions": 3,
+        "date": "2017-10-20",
+        "commitResults": [
+          {
+            "hash": "55787167ef17fc4c0979e2e27c41c416d9299093",
+            "message": "do not display ignored authors",
+            "insertions": 26,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 26,
+        "deletions": 5,
+        "date": "2017-12-01",
+        "commitResults": [
+          {
+            "hash": "ba56d644f712e0de6ab2b96e7c3bc0e2b11e7ac2",
+            "message": "console progress",
+            "insertions": 26,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 295,
+        "deletions": 187,
+        "date": "2017-12-14",
+        "commitResults": [
+          {
+            "hash": "b9ee0dd422bfdfa0f692c2bb185c79c73f1e9fc8",
+            "message": "temp",
+            "insertions": 295,
+            "deletions": 187
+          }
+        ]
+      },
+      {
+        "insertions": 87,
+        "deletions": 130,
+        "date": "2017-12-16",
+        "commitResults": [
+          {
+            "hash": "9891fc56685351ceab0003ba5b7b8f812d94b048",
+            "message": "report sort function",
+            "insertions": 87,
+            "deletions": 130
+          }
+        ]
+      },
+      {
+        "insertions": 116,
+        "deletions": 80,
+        "date": "2017-12-17",
+        "commitResults": [
+          {
+            "hash": "aaa242f3bbc3e2761df4d64fdac9091608a9276f",
+            "message": "author alias",
+            "insertions": 116,
+            "deletions": 80
+          }
+        ]
+      },
+      {
+        "insertions": 151,
+        "deletions": 112,
+        "date": "2017-12-27",
+        "commitResults": [
+          {
+            "hash": "b8b0eaf63749f07308b03cff42cc93ad2c8d7bc2",
+            "message": "group by repo",
+            "insertions": 151,
+            "deletions": 112
+          }
+        ]
+      },
+      {
+        "insertions": 71,
+        "deletions": 28,
+        "date": "2017-12-28",
+        "commitResults": [
+          {
+            "hash": "9c66e5682d2dfd7cf500dc94dd65747118e0fe00",
+            "message": "java frontend target location",
+            "insertions": 71,
+            "deletions": 28
+          }
+        ]
+      },
+      {
+        "insertions": 30,
+        "deletions": 29,
+        "date": "2018-01-02",
+        "commitResults": [
+          {
+            "hash": "6e4aa36807b6305f1f80a04c7ec838588ac77046",
+            "message": "minor changes",
+            "insertions": 30,
+            "deletions": 29
+          }
+        ]
+      },
+      {
+        "insertions": 198,
+        "deletions": 116,
+        "date": "2018-01-03",
+        "commitResults": [
+          {
+            "hash": "755aa920683d11db328c7decf0953daf2bdfbf54",
+            "message": "sort and filter",
+            "insertions": 198,
+            "deletions": 116
+          }
+        ]
+      },
+      {
+        "insertions": 409,
+        "deletions": 306,
+        "date": "2018-01-04",
+        "commitResults": [
+          {
+            "hash": "1f48f535906ce9460932c9343bf7acb39393d1a2",
+            "message": "iteration 2.0 3/1/",
+            "insertions": 399,
+            "deletions": 288
+          },
+          {
+            "hash": "ab3197d9605a33be55e1f97e868fc9aeaf26ee53",
+            "message": "fix interval edge value bug",
+            "insertions": 3,
+            "deletions": 12
+          },
+          {
+            "hash": "06075ed56dc2dcaa5fa3e16dbe167427fc7ffd3c",
+            "message": "fix interval toggle bug",
+            "insertions": 7,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 24,
+        "deletions": 18,
+        "date": "2018-01-05",
+        "commitResults": [
+          {
+            "hash": "b74a25813e63e69a8b2cae5886e3eda1f34e77ee",
+            "message": "fix jQuery animation lag",
+            "insertions": 24,
+            "deletions": 18
+          }
+        ]
+      },
+      {
+        "insertions": 89,
+        "deletions": 9,
+        "date": "2018-01-07",
+        "commitResults": [
+          {
+            "hash": "5734411ddd976be0a7601d08550a1ca1b862b95b",
+            "message": "syntax highlight",
+            "insertions": 89,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 16,
+        "deletions": 28,
+        "date": "2018-01-15",
+        "commitResults": [
+          {
+            "hash": "b69db9dde23e4e006eb1b2aac6dc7eaf77400487",
+            "message": "optimize imports",
+            "insertions": 16,
+            "deletions": 28
+          }
+        ]
+      },
+      {
+        "insertions": 47,
+        "deletions": 19,
+        "date": "2018-01-19",
+        "commitResults": [
+          {
+            "hash": "f4693ba5e0c261d2396a06e99b863be2d4595a09",
+            "message": "change identifier from git email to git id",
+            "insertions": 35,
+            "deletions": 15
+          },
+          {
+            "hash": "b8c1174b5c76ac611ca0176b6787d63de1bfad3c",
+            "message": "gradle configuration",
+            "insertions": 12,
+            "deletions": 2
+          },
+          {
+            "hash": "ceaff010c53b2092414d8ea85af23f859eeae1e8",
+            "message": "remove wrong sample",
+            "insertions": 0,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 109,
+        "deletions": 22,
+        "date": "2018-01-20",
+        "commitResults": [
+          {
+            "hash": "14f2feb162fc6839a0ecaca013bbb15ae9f905d8",
+            "message": "from/to date on front end",
+            "insertions": 95,
+            "deletions": 16
+          },
+          {
+            "hash": "42ecd009d4506511b72edd44313331bde79b5c93",
+            "message": "suspicious authors",
+            "insertions": 14,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 281,
+        "deletions": 60,
+        "date": "2018-01-22",
+        "commitResults": [
+          {
+            "hash": "573826acf4af934c55dc265bbdb671856a5859d8",
+            "message": "date picker front end",
+            "insertions": 231,
+            "deletions": 31
+          },
+          {
+            "hash": "75860f9f27354f15a53d45c51da1c930c0eb1828",
+            "message": "windows compatible",
+            "insertions": 16,
+            "deletions": 3
+          },
+          {
+            "hash": "b717351e0b4186b188213eb15581b20ac81a39a3",
+            "message": "remove UNIX commands",
+            "insertions": 19,
+            "deletions": 21
+          },
+          {
+            "hash": "90aa7ef7ba085db51f231faee4a46c71304fbd00",
+            "message": "put back full CSV",
+            "insertions": 11,
+            "deletions": 1
+          },
+          {
+            "hash": "7f2373511b2e1115012e3a9817842f134b653e03",
+            "message": "windows command compatible",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 14,
+        "deletions": 15,
+        "date": "2018-01-23",
+        "commitResults": [
+          {
+            "hash": "dd215a34feeada15d8cd314ebeabe6564fa0b4a8",
+            "message": "git clone bug",
+            "insertions": 14,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 11,
+        "deletions": 4,
+        "date": "2018-01-24",
+        "commitResults": [
+          {
+            "hash": "53d5095d17eea086a31463d8758114ce5a4a301c",
+            "message": "improve command runner error message...",
+            "insertions": 7,
+            "deletions": 4
+          },
+          {
+            "hash": "fc487231b0b9c078bc8a717499190c61b8c7c401",
+            "message": "hide scroll bar in code review panel",
+            "insertions": 4,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 378,
+        "deletions": 233,
+        "date": "2018-01-27",
+        "commitResults": [
+          {
+            "hash": "ae3b7fbe0d8b6312e676d99a0f54d6ec420a1ebe",
+            "message": "command line tools",
+            "insertions": 358,
+            "deletions": 219
+          },
+          {
+            "hash": "c0f8b0ab1d8ca3045a727f12952027644f008e5c",
+            "message": "update readme",
+            "insertions": 18,
+            "deletions": 1
+          },
+          {
+            "hash": "96aa966250ec4622139adcb9b11d59ab44b2c2ce",
+            "message": "delete repos after analysing done",
+            "insertions": 2,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 1,
+        "date": "2018-01-29",
+        "commitResults": [
+          {
+            "hash": "a583541af5ed9bac08e340bfef0119558240c638",
+            "message": "ignore test result files",
+            "insertions": 4,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 130,
+        "deletions": 41771,
+        "date": "2018-02-04",
+        "commitResults": [
+          {
+            "hash": "75d767217b714c45b54a7b2a0f69fd2cd9dd6850",
+            "message": "refactor JS",
+            "insertions": 130,
+            "deletions": 41771
+          }
+        ]
+      },
+      {
+        "insertions": 117,
+        "deletions": 1,
+        "date": "2018-02-06",
+        "commitResults": [
+          {
+            "hash": "9a3bc23e0bbf08ad3eecbf2698fbc5017bd380a3",
+            "message": "unit init",
+            "insertions": 117,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 135,
+        "deletions": 26,
+        "date": "2018-02-07",
+        "commitResults": [
+          {
+            "hash": "56dc7504a4c2b075a131fd9f6ee5e288a4afcbeb",
+            "message": "GitClass UT",
+            "insertions": 135,
+            "deletions": 26
+          }
+        ]
+      },
+      {
+        "insertions": 173,
+        "deletions": 85,
+        "date": "2018-02-09",
+        "commitResults": [
+          {
+            "hash": "c820079e02261a7e60f447d0d0b6a45dacfd1e9a",
+            "message": "blamer test",
+            "insertions": 113,
+            "deletions": 64
+          },
+          {
+            "hash": "4f1ef0058b38d83ae47c076be91e8a436ae24688",
+            "message": "annotator analyser test",
+            "insertions": 60,
+            "deletions": 21
+          }
+        ]
+      },
+      {
+        "insertions": 40,
+        "deletions": 0,
+        "date": "2018-02-12",
+        "commitResults": [
+          {
+            "hash": "35e48995dc490b9113cba1db2f1e4298b4f40729",
+            "message": "commit analyser test",
+            "insertions": 40,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 71,
+        "deletions": 26,
+        "date": "2018-02-25",
+        "commitResults": [
+          {
+            "hash": "e154f97146d1b55b83f1dc956451c66e23443873",
+            "message": "UI changes",
+            "insertions": 71,
+            "deletions": 26
+          }
+        ]
+      },
+      {
+        "insertions": 118,
+        "deletions": 2,
+        "date": "2018-03-04",
+        "commitResults": [
+          {
+            "hash": "ed14a516e355ca75a4572f3da72de0361edd87c4",
+            "message": "simple functional test framework",
+            "insertions": 118,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 7,
+        "deletions": 8,
+        "date": "2018-03-05",
+        "commitResults": [
+          {
+            "hash": "f4def868e4baf53e504c6fc6bc7e76971e51d3d4",
+            "message": "update client args format",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "b3eefa26dd7503535173f5afa7909bc9b39c009b",
+            "message": "fix minor bug",
+            "insertions": 4,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 86,
+        "deletions": 10,
+        "date": "2018-03-13",
+        "commitResults": [
+          {
+            "hash": "9c335d736029bcd29d9d88a066ad4386261d0403",
+            "message": "skip analysing if repo doesn\u0027t exist",
+            "insertions": 85,
+            "deletions": 9
+          },
+          {
+            "hash": "fbc6f17f879cd7851cdd1559d04b33f4bf4775d2",
+            "message": "change total contribution bar length",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 57,
+        "deletions": 36,
+        "date": "2018-03-14",
+        "commitResults": [
+          {
+            "hash": "f4c0906a5512491d5b96a51544d91b0c83548fc1",
+            "message": "fix minDate issue",
+            "insertions": 21,
+            "deletions": 9
+          },
+          {
+            "hash": "218af273f5a872623b7dc0edcbfd1d02fdd7d35a",
+            "message": "fix display name",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d44fa6afb0f7a44c9af90eb9bcd38fdd6a85b291",
+            "message": "various frontend fixes",
+            "insertions": 13,
+            "deletions": 10
+          },
+          {
+            "hash": "54b20e33798a1921b4908b0b6a7248926076a186",
+            "message": "fixed tooltip display in \u0027daily\u0027 mode",
+            "insertions": 7,
+            "deletions": 3
+          },
+          {
+            "hash": "2f3db8e84a7a61cd15fe6515a860e5c91dbda549",
+            "message": "adjust top toolbar",
+            "insertions": 13,
+            "deletions": 9
+          },
+          {
+            "hash": "bd1b57f95082b93563e702a9734874d7fca096ca",
+            "message": "remove scale cap",
+            "insertions": 2,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 93,
+        "deletions": 34,
+        "date": "2018-03-19",
+        "commitResults": [
+          {
+            "hash": "fb3b990b86fcb0ae838c441991673944bba98853",
+            "message": "doc inclusion",
+            "insertions": 18,
+            "deletions": 10
+          },
+          {
+            "hash": "ec7c89fa9420bf291bdf22e6af10aca978084e33",
+            "message": "style issue",
+            "insertions": 12,
+            "deletions": 4
+          },
+          {
+            "hash": "d144a5f01e52a866ff8ea28b2399433b51f554bb",
+            "message": "bookmark",
+            "insertions": 46,
+            "deletions": 16
+          },
+          {
+            "hash": "caa35fd70f4cad6302a1782b6e438b2bac64763f",
+            "message": "sort by name",
+            "insertions": 17,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 150,
+        "deletions": 18,
+        "date": "2018-03-23",
+        "commitResults": [
+          {
+            "hash": "4930c8c16ce2088fc79b14e33b7aeb8950eae698",
+            "message": "collapse untouched code",
+            "insertions": 136,
+            "deletions": 4
+          },
+          {
+            "hash": "60b4ccd3a325ca0ab50c912b8ab11e8876bfc123",
+            "message": "fix sorting bug",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "686e9acd3fe1e87866b11990637f928fbd405f20",
+            "message": "fix date picker bookmark bug",
+            "insertions": 12,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 3,
+        "date": "2018-03-24",
+        "commitResults": [
+          {
+            "hash": "a916e3b7faf9bf8c1b85c8ddda289184541c0916",
+            "message": "git log corner case",
+            "insertions": 2,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 49,
+        "deletions": 34,
+        "date": "2018-03-27",
+        "commitResults": [
+          {
+            "hash": "195fb75930cf70a32a2e3919fd28499b1912d33b",
+            "message": "remove dates from bookmark",
+            "insertions": 6,
+            "deletions": 10
+          },
+          {
+            "hash": "ac9ac8dc717d894847a2d47b67da68dabc96bafd",
+            "message": "show authors with no contribution",
+            "insertions": 43,
+            "deletions": 24
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 1,
+        "date": "2018-03-28",
+        "commitResults": [
+          {
+            "hash": "350da5cb519fa03672b5a75d2ae049a3189f0268",
+            "message": "fix windows test fail issue",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2018-03-30",
+        "commitResults": [
+          {
+            "hash": "e912eaf42d077216fc200a3b4a06cd90077f14cd",
+            "message": "change hide button",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2018-03-31",
+        "commitResults": [
+          {
+            "hash": "0066a0df1b8b22daf22987a3d19472144ed61476",
+            "message": "bookmark icon change",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 12,
+        "deletions": 6,
+        "date": "2018-04-20",
+        "commitResults": [
+          {
+            "hash": "a530e2d4fc3196cdf8aed6770317db74a9b5bf02",
+            "message": "fix file name with space issue",
+            "insertions": 12,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 53,
+        "deletions": 110,
+        "date": "2018-04-21",
+        "commitResults": [
+          {
+            "hash": "376a88a3b1765f4f681c902517c64de33d286e0f",
+            "message": "fix bug when none of the team member change git Id to github ID",
+            "insertions": 47,
+            "deletions": 108
+          },
+          {
+            "hash": "7ed8f23c3013c840c7581b52eb10c2ace0fa60d0",
+            "message": "skip analysis if no contribution found",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "ba5c34d3f5ef33bd023ea7c5b9c3408c50bdeb52",
+            "message": "better fix for no log available issue",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 0,
+        "date": "2018-04-23",
+        "commitResults": [
+          {
+            "hash": "3423c51ae2a3f76ec6a71590719c5681f1443909",
+            "message": "User Guide introduction",
+            "insertions": 3,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 97,
+        "deletions": 24,
+        "date": "2018-04-25",
+        "commitResults": [
+          {
+            "hash": "c86eda98c15f8af958df15889892c723986a801b",
+            "message": "user_guide_1",
+            "insertions": 97,
+            "deletions": 24
+          }
+        ]
+      },
+      {
+        "insertions": 198,
+        "deletions": 32,
+        "date": "2018-04-28",
+        "commitResults": [
+          {
+            "hash": "7ad8ccc4b5fe6184d2b5a39b1377edda180264a0",
+            "message": "developer  guide",
+            "insertions": 171,
+            "deletions": 8
+          },
+          {
+            "hash": "d1f4c8a1f35b9b2c5778cb0e39f62d4b945ca750",
+            "message": "fix md format issue",
+            "insertions": 25,
+            "deletions": 23
+          },
+          {
+            "hash": "978bbfbcf6c6bd2ea3fcf30a0830e5b0ded93bb8",
+            "message": "fix user guide table rendering issue",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 6,
+        "date": "2018-05-06",
+        "commitResults": [
+          {
+            "hash": "8f97c1b052724716ad3ac583a99d72936f2b2970",
+            "message": "remove log message when trying to delete non-existing directory",
+            "insertions": 2,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 4,
+        "date": "2018-05-07",
+        "commitResults": [
+          {
+            "hash": "50575e64789124fa4ea8b264e042bf48d4ff1081",
+            "message": "fix checkstyle issue",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      }
+    ],
+    "Damith C. Rajapakse": [
+      {
+        "insertions": 3,
+        "deletions": 3,
+        "date": "2018-04-03",
+        "commitResults": [
+          {
+            "hash": "b4569b479893dd53fbf0972c5194566a439ac25e",
+            "message": "README.md: update product name to RepoSense",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "342d0466ee96cd0141863b9a479c64b14fb3994f",
+            "message": "README.md: tweak heading level",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 251,
+        "deletions": 313,
+        "date": "2018-09-27",
+        "commitResults": [
+          {
+            "hash": "976f76ab671fda65a376d4063a654954b8af6f21",
+            "message": "Reorganize UserGuide.md to improve the flow (#344)",
+            "insertions": 251,
+            "deletions": 313
+          }
+        ]
+      }
+    ],
+    "Jin Minjia": [
+      {
+        "insertions": 8,
+        "deletions": 6,
+        "date": "2019-07-10",
+        "commitResults": [
+          {
+            "hash": "95e1ff81b55b7337c6f79e354acfbca56c05e53c",
+            "message": "[#745] Toolbar: edit flexbox properties (#768)",
+            "insertions": 8,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 25,
+        "deletions": 0,
+        "date": "2019-07-14",
+        "commitResults": [
+          {
+            "hash": "0e24977b4c6c418078697361e13f7402aa485deb",
+            "message": "[#705] Log: distinct warning and error messages (#794)",
+            "insertions": 25,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 9,
+        "deletions": 5,
+        "date": "2019-07-18",
+        "commitResults": [
+          {
+            "hash": "e7aa3277c8785b608e7b36ccdfc4457f65f832ff",
+            "message": "[#753] Display individuals\u0027 contribution (#762)",
+            "insertions": 9,
+            "deletions": 5
+          }
+        ]
+      }
+    ],
+    "AdityaA1998": [
+      {
+        "insertions": 228,
+        "deletions": 23,
+        "date": "2018-06-07",
+        "commitResults": [
+          {
+            "hash": "00e6e7972cf739a6889ecd6a18199e846387005f",
+            "message": "[#98] Implement a logger (#123)",
+            "insertions": 228,
+            "deletions": 23
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 12,
+        "date": "2018-06-14",
+        "commitResults": [
+          {
+            "hash": "097ff3f7103b4f5bcfc662c55da3e805e3e8423d",
+            "message": "[#139] Clean up the logger output  (#145)",
+            "insertions": 1,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 23,
+        "deletions": 3,
+        "date": "2018-06-18",
+        "commitResults": [
+          {
+            "hash": "8f51595a9394f0e4fb2c09beef668f36b3c91128",
+            "message": "[#132] Configure gradle to run with arguments (#136)",
+            "insertions": 23,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 300,
+        "deletions": 40,
+        "date": "2018-07-15",
+        "commitResults": [
+          {
+            "hash": "e2c8d55addec2fb60d580e749011f0287d584002",
+            "message": "FileUtil: add zip function for offline preview (#152)",
+            "insertions": 300,
+            "deletions": 40
+          }
+        ]
+      },
+      {
+        "insertions": 148,
+        "deletions": 15,
+        "date": "2018-07-23",
+        "commitResults": [
+          {
+            "hash": "24365e9a26bb4b10c87c3d65cfce55a91e976fac",
+            "message": "Add functionality to start the web server to display the dashboard (#211)",
+            "insertions": 148,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 88,
+        "deletions": 43,
+        "date": "2018-07-26",
+        "commitResults": [
+          {
+            "hash": "362a7f58a7099459f11eb8b4791898531bba6308",
+            "message": "Include timestamp footer in the dashboard (#235)",
+            "insertions": 88,
+            "deletions": 43
+          }
+        ]
+      },
+      {
+        "insertions": 51,
+        "deletions": 15,
+        "date": "2018-08-02",
+        "commitResults": [
+          {
+            "hash": "00d0c190febced8e3088314e2832535c364413d3",
+            "message": "[#188] Dashboard: code panel graphical improvement (#257)",
+            "insertions": 51,
+            "deletions": 15
+          }
+        ]
+      }
+    ],
+    "Chelsey Ong": [
+      {
+        "insertions": 66,
+        "deletions": 10,
+        "date": "2019-01-12",
+        "commitResults": [
+          {
+            "hash": "c153f4c9b0d99665bd863da01a03271afe985df0",
+            "message": "[#170] CodeView: add selection to filter files by format (#448)",
+            "insertions": 66,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-01-15",
+        "commitResults": [
+          {
+            "hash": "4e9bd5c375889c84457cec39592b4233b6270571",
+            "message": "[#473] CodeView: fix mismatch of displayed file content (#477)",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 1,
+        "date": "2019-01-27",
+        "commitResults": [
+          {
+            "hash": "16bbe8d406b8d131be0681837c57dd07b6412c2a",
+            "message": "[#501] ChartView: apply case-insensitive sorting sequence to `Author Name` (#488)",
+            "insertions": 4,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 39,
+        "deletions": 23,
+        "date": "2019-02-15",
+        "commitResults": [
+          {
+            "hash": "2c6b44ac323008c3c2b55789fee9c2f014c2f879",
+            "message": "[#521] CodeView: Collapse/Expand All button not updated correctly after hiding all files (#529)",
+            "insertions": 39,
+            "deletions": 23
+          }
+        ]
+      },
+      {
+        "insertions": 24,
+        "deletions": 15,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "a9ac842f3e3f8ff9d1fd7fbdb00aa520256ffda8",
+            "message": "ChartView: update code for list-rendering (#513)",
+            "insertions": 24,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 76,
+        "deletions": 13,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "5848cd96987a0106436950f5000f6f4556c7c73b",
+            "message": "[#465] Url: bookmark opened code view (#524)",
+            "insertions": 76,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 79,
+        "deletions": 35,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "bde16500d0ec7f9555b1cebad0fa7636bd668d0c",
+            "message": "[#543] RampChart: add group by authors option (#570)",
+            "insertions": 79,
+            "deletions": 35
+          }
+        ]
+      },
+      {
+        "insertions": 193,
+        "deletions": 7,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "3157e1b204ebbd1f2e9693d1d8af24423bcd6624",
+            "message": "[#398] GitLog: handle paths in config that exist outside the repo (#592)",
+            "insertions": 193,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 93,
+        "deletions": 31,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "b8033c1a5f1b0cc1a273116ca4491203aeb901cd",
+            "message": "[#601] ChartView: improve the sort controls (#618)",
+            "insertions": 93,
+            "deletions": 31
+          }
+        ]
+      },
+      {
+        "insertions": 24,
+        "deletions": 8,
+        "date": "2019-05-04",
+        "commitResults": [
+          {
+            "hash": "81db2aaf93d06bbf19be2efc2372baa6b5106957",
+            "message": "[#463] ChartView: add contribution and variance to `sort groups by` (#639)",
+            "insertions": 24,
+            "deletions": 8
+          }
+        ]
+      }
+    ],
+    "Jason Chong": [
+      {
+        "insertions": 3,
+        "deletions": 1,
+        "date": "2018-12-17",
+        "commitResults": [
+          {
+            "hash": "aa5ce55747b505bcd6dfdf2d214417017bfbe22a",
+            "message": "[#393] Remove undefined parameter in the URL (#432)",
+            "insertions": 3,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 539,
+        "deletions": 264,
+        "date": "2018-12-30",
+        "commitResults": [
+          {
+            "hash": "52119bfad3268caf3e085730ce4a572901927362",
+            "message": "[#316] Split RepoConfiguration into more classes (#425)",
+            "insertions": 539,
+            "deletions": 264
+          }
+        ]
+      }
+    ],
+    "Jun An": [
+      {
+        "insertions": 213,
+        "deletions": 262,
+        "date": "2018-05-31",
+        "commitResults": [
+          {
+            "hash": "555d0caa633c1037a913857ec17d521a93c3e95b",
+            "message": "[#107] Shift from File to Path class (#114)",
+            "insertions": 213,
+            "deletions": 262
+          }
+        ]
+      },
+      {
+        "insertions": 36,
+        "deletions": 42,
+        "date": "2018-06-04",
+        "commitResults": [
+          {
+            "hash": "b7bab4cea243aca7ea857d49d7c3935ee1e276c0",
+            "message": "Improve performance (#126)",
+            "insertions": 36,
+            "deletions": 42
+          }
+        ]
+      },
+      {
+        "insertions": 212733,
+        "deletions": 8497,
+        "date": "2018-06-12",
+        "commitResults": [
+          {
+            "hash": "503c43ed1c90e8dcb46173c8f7c8e62f9286acbf",
+            "message": "[#92] FileInfo: date range does not affect code contribution (#137)",
+            "insertions": 212733,
+            "deletions": 8497
+          }
+        ]
+      },
+      {
+        "insertions": 1047,
+        "deletions": 936,
+        "date": "2018-06-22",
+        "commitResults": [
+          {
+            "hash": "87571e26e9792c62b602b2760906db234b68b3c7",
+            "message": "[#69] Architecture: apply separation of concern to multiple classes (#147)",
+            "insertions": 1047,
+            "deletions": 936
+          }
+        ]
+      },
+      {
+        "insertions": 51,
+        "deletions": 299,
+        "date": "2018-06-26",
+        "commitResults": [
+          {
+            "hash": "978ec5d5ca50ed96529ce1fb5057563849224fa9",
+            "message": "[#131] Redirect functional test to use testrepo (#133)",
+            "insertions": 51,
+            "deletions": 299
+          }
+        ]
+      },
+      {
+        "insertions": 128,
+        "deletions": 170,
+        "date": "2018-07-08",
+        "commitResults": [
+          {
+            "hash": "9bc31f82fe9594b54c77b780f5d670e595cbf1f7",
+            "message": "Update developer guide (#151)",
+            "insertions": 128,
+            "deletions": 170
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 4,
+        "date": "2018-07-10",
+        "commitResults": [
+          {
+            "hash": "f758253fdba88fd3fecd00d082bba202faaa0025",
+            "message": "Fix link in README and dependency notes in UserGuide (#175)",
+            "insertions": 3,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 64,
+        "deletions": 12,
+        "date": "2018-07-12",
+        "commitResults": [
+          {
+            "hash": "968c6a8565bf5a66d18570a2d52dc7ff567ad7dd",
+            "message": "[#177] Add more default file types to analyze (#178)",
+            "insertions": 64,
+            "deletions": 12
+          },
+          {
+            "hash": "9efe444e3eccd27dd50381b5bcb3fac732d4a837",
+            "message": "UserGuide: update images of the new UI (#179)",
+            "insertions": 0,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 31,
+        "deletions": 3,
+        "date": "2018-07-13",
+        "commitResults": [
+          {
+            "hash": "1f222c0fd93fd8c5399a27c18aa03c03871f7cee",
+            "message": "[#182, #183] FileInfoExtractor: decode non-UTF-8 characters (#180)",
+            "insertions": 31,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 12,
+        "deletions": 12,
+        "date": "2018-07-19",
+        "commitResults": [
+          {
+            "hash": "9e374e050fbd53de439592162cf8e190fab5f970",
+            "message": "build.gradle: fix output location for jar file (#208)",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "aa36ea50b6bca88b9a0fba38091b7624cc6bc8a8",
+            "message": "[#206] Fix different branches of same repository using same display name (#207)",
+            "insertions": 11,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 6445,
+        "deletions": 6455,
+        "date": "2018-07-20",
+        "commitResults": [
+          {
+            "hash": "b6d844d42411bb867e865ebc99fb5ebeeefe31d8",
+            "message": "Remove copy move detection for CommandRunner#blameRaw (#212)",
+            "insertions": 5605,
+            "deletions": 5865
+          },
+          {
+            "hash": "5b5c645f1a276e06954c85d644dfc75f1276fb6a",
+            "message": "[#203] Authorship: incorrect line authorship when analyzing date range (#205)",
+            "insertions": 840,
+            "deletions": 590
+          }
+        ]
+      },
+      {
+        "insertions": 12,
+        "deletions": 3,
+        "date": "2018-07-21",
+        "commitResults": [
+          {
+            "hash": "a76a1b4d1492aeb9c8c2662fc9f06d68b21f5c0e",
+            "message": "[#215] Extracting info from git diff is not working as expected (#216)",
+            "insertions": 12,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 163,
+        "deletions": 58,
+        "date": "2018-07-24",
+        "commitResults": [
+          {
+            "hash": "73e1f10510d89d409fd4609f1be744217760ca37",
+            "message": "[#218] Add support for file exclusion patterns (#229)",
+            "insertions": 163,
+            "deletions": 58
+          }
+        ]
+      },
+      {
+        "insertions": 211,
+        "deletions": 101,
+        "date": "2018-07-26",
+        "commitResults": [
+          {
+            "hash": "41590a93be29d249e3a6b17612a17f4d01de2670",
+            "message": "[#234] Modify analysis of files and commits to be at Author level (#236)",
+            "insertions": 184,
+            "deletions": 94
+          },
+          {
+            "hash": "14b7c569e65fedaaadbd2f2143f3d383fcb2346f",
+            "message": "Fix empty ramps when overriding RepoConfiguration (#243)",
+            "insertions": 27,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 54953,
+        "deletions": 34114,
+        "date": "2018-07-27",
+        "commitResults": [
+          {
+            "hash": "b8dbc3cf3c7c334665a828cf4236dcb442228c94",
+            "message": "Update data for testrepo-Delta (#247)",
+            "insertions": 54953,
+            "deletions": 34114
+          }
+        ]
+      },
+      {
+        "insertions": 25840,
+        "deletions": 45087,
+        "date": "2018-08-02",
+        "commitResults": [
+          {
+            "hash": "90018e49f129ce7e0abdc8b18e91c9813588c601",
+            "message": "[#262] Ignore glob list does not propagate to code view (#265)",
+            "insertions": 25840,
+            "deletions": 45087
+          }
+        ]
+      },
+      {
+        "insertions": 53927,
+        "deletions": 119218,
+        "date": "2018-08-03",
+        "commitResults": [
+          {
+            "hash": "7b96c563eb2d3612aa5275364333664a18f01491",
+            "message": "[#274] Fix repo-config.csv ignoreGlobList not affecting contribution (#280)",
+            "insertions": 53927,
+            "deletions": 119218
+          }
+        ]
+      },
+      {
+        "insertions": 121,
+        "deletions": 5,
+        "date": "2018-08-16",
+        "commitResults": [
+          {
+            "hash": "cc1cfbf95f8338d114d82899ad15ca6107485bf3",
+            "message": "[#299] Fix error matching file path pattern inside file diff result (#300)",
+            "insertions": 35,
+            "deletions": 4
+          },
+          {
+            "hash": "f6f5f2640e59d76d6a8702ee3586ef654181d1d5",
+            "message": "[#301] Hotfix: report folder not generated when failed to analyze repo (#302)",
+            "insertions": 86,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 621,
+        "deletions": 308,
+        "date": "2018-08-19",
+        "commitResults": [
+          {
+            "hash": "e9bff1bbca722268a3088ec52926e1ec0cfbd2c5",
+            "message": "[#246] Add support for repo-level commit exclusion (#261)",
+            "insertions": 621,
+            "deletions": 308
+          }
+        ]
+      },
+      {
+        "insertions": 61,
+        "deletions": 47,
+        "date": "2018-08-29",
+        "commitResults": [
+          {
+            "hash": "9a44435e5c9cdc841d0b51acf01fcb64c093fa85",
+            "message": "Clean up build.gradle (#309)",
+            "insertions": 48,
+            "deletions": 34
+          },
+          {
+            "hash": "f27a1902fe81687c999af012d45753d859ff0313",
+            "message": "[#85] Rename functional to systemtest (#306)",
+            "insertions": 13,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 165,
+        "deletions": 192,
+        "date": "2018-09-27",
+        "commitResults": [
+          {
+            "hash": "f9b37ce7d37f094f0df18096c84d3ce5e0596c25",
+            "message": "[#340] Allow non-alpha-numeric characters in GitHub usernames (#347)",
+            "insertions": 165,
+            "deletions": 192
+          }
+        ]
+      },
+      {
+        "insertions": 79,
+        "deletions": 37,
+        "date": "2018-09-28",
+        "commitResults": [
+          {
+            "hash": "1db15975ba82c913195fd7588527f51ff13f6c0b",
+            "message": "[#341] Show only authors who have contributed during analysis period (#349)",
+            "insertions": 79,
+            "deletions": 37
+          }
+        ]
+      },
+      {
+        "insertions": 52,
+        "deletions": 52,
+        "date": "2018-10-07",
+        "commitResults": [
+          {
+            "hash": "c05f000e0daf69de292a4c53201fc8c47213fae5",
+            "message": "[#357] FileInfoExtractor: use cleaner alternative to extract code change (#361)",
+            "insertions": 52,
+            "deletions": 52
+          }
+        ]
+      },
+      {
+        "insertions": 51,
+        "deletions": 5,
+        "date": "2018-10-15",
+        "commitResults": [
+          {
+            "hash": "be94eedde7dd797793cd29b2af425a5d2e69f486",
+            "message": "[#370] Fix uncaught InvalidPathException due to Illegal char \u003c:\u003e in file name (#371)",
+            "insertions": 51,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 27,
+        "deletions": 0,
+        "date": "2019-01-23",
+        "commitResults": [
+          {
+            "hash": "ad10410d26aba8dbcfe1b13cbcd752ad544accf8",
+            "message": "[#297] UserGuide: add FAQ section to address common problems (#494)",
+            "insertions": 27,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 12,
+        "deletions": 2,
+        "date": "2019-02-24",
+        "commitResults": [
+          {
+            "hash": "ca24a0dfa0d04b633559b8806702ba658a11c255",
+            "message": "[#546] FAQ: add another entry to propose email as alternative to GitHub ID (#568)",
+            "insertions": 12,
+            "deletions": 2
+          }
+        ]
+      }
+    ],
+    "dlworldpeace": [
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-01-13",
+        "commitResults": [
+          {
+            "hash": "9205790ffedec822f2b2a62da3ef5eb94f49d1b2",
+            "message": "[#444] UserGuide: fix typing error in `until` parameter example (#439)",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 22,
+        "deletions": 6,
+        "date": "2019-01-20",
+        "commitResults": [
+          {
+            "hash": "c33bcb5254616e7b68390ea926a9a139f56e9476",
+            "message": "[#474] Format: add \u0027txt\u0027 format to list of default formats (#475)",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "92de35f16072e2030a18a30acae3efcac298f8f7",
+            "message": "[#447] CommitInfoAnalyzer: handle empty commit message (#440)",
+            "insertions": 17,
+            "deletions": 2
+          }
+        ]
+      }
+    ],
+    "Gilbert Emerson": [
+      {
+        "insertions": 49,
+        "deletions": 4,
+        "date": "2019-01-29",
+        "commitResults": [
+          {
+            "hash": "ee21b0d8752adda7cffe547d490222c3dbd474a4",
+            "message": "[#380] Prevent generate FileInfo from directory with valid name (#511)",
+            "insertions": 11,
+            "deletions": 0
+          },
+          {
+            "hash": "abffc93e1e6927a7683ee0ef595c43f0084c116c",
+            "message": "[#392] Show a \u0027loading...\u0027 message while loading the report for the first time (#498)",
+            "insertions": 38,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 85,
+        "deletions": 5,
+        "date": "2019-01-30",
+        "commitResults": [
+          {
+            "hash": "73e47bf670f35f67a7340389013f968927c7fe40",
+            "message": "Make center divider adjustable #403 (#418)",
+            "insertions": 85,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 13,
+        "deletions": 8,
+        "date": "2019-02-11",
+        "commitResults": [
+          {
+            "hash": "7a1ea0ef1d73a8d261dd7603b35cf6cfa5d58efd",
+            "message": "[#519] Update JavaScript dependencies used in the frontend (#525)",
+            "insertions": 13,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 15,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": [
+          {
+            "hash": "29f84b5d34f2a83248a109196b83662409d55435",
+            "message": "[#508] GitBlame: RuntimeError when analyzing branch name that is within whitelisted format (#535)",
+            "insertions": 15,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 70,
+        "deletions": 19,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "ba7c96d7ccb84c372d114ee02c3491855158bbd2",
+            "message": "[#407] CodeView: give additional sorting options (#445)",
+            "insertions": 70,
+            "deletions": 19
+          }
+        ]
+      },
+      {
+        "insertions": 154,
+        "deletions": 4790,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "f278e754e984ebcb45937ccd35a31c794636b689",
+            "message": "[#542] Report: fix page unresponsive when loading repos with huge date gap (#596)",
+            "insertions": 154,
+            "deletions": 4790
+          }
+        ]
+      },
+      {
+        "insertions": 183,
+        "deletions": 83,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "15690ddebacb87f981cc08b735f12e2805ce10fd",
+            "message": "Checkstyle: increase severity of all existing rules #624 (#626)",
+            "insertions": 168,
+            "deletions": 71
+          },
+          {
+            "hash": "946d677f07f28eed457f6319c9331e70f2c9c9c6",
+            "message": "[#518] RampChart: show up to report generation date, not last commit date (#539)",
+            "insertions": 15,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 71,
+        "deletions": 48,
+        "date": "2019-04-16",
+        "commitResults": [
+          {
+            "hash": "8f385ab10b8e8aab6ef7b01992a9a0323e37194e",
+            "message": "[#607] summary.json: move sinceDate and untilDate become direct element (#615)",
+            "insertions": 71,
+            "deletions": 48
+          }
+        ]
+      }
+    ],
+    "Metta Ong": [
+      {
+        "insertions": 14,
+        "deletions": 9,
+        "date": "2018-05-26",
+        "commitResults": [
+          {
+            "hash": "7278855e14451cee6eb8cafc29086d7afde715f6",
+            "message": "[#21] Ramp chart: optimize vertical space (#109)",
+            "insertions": 14,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 24,
         "deletions": 8,
         "date": "2018-07-14",
         "commitResults": [
           {
             "hash": "6df8163cc274b78905e9f175deaa98e15cfdb987",
             "message": "Fix dashboard padding function (#187)",
-            "insertions": 20,
+            "insertions": 24,
             "deletions": 8
           }
         ]
       },
       {
-        "insertions": 30,
-        "deletions": 713,
+        "insertions": 76,
+        "deletions": 737,
         "date": "2018-07-19",
         "commitResults": [
           {
             "hash": "a3e23775486d350afd80af7b5d40c5c89d84d5a2",
             "message": "Remove generated template files from source code (#195)",
-            "insertions": 17,
-            "deletions": 695
+            "insertions": 63,
+            "deletions": 719
           },
           {
             "hash": "12ab8fafabc9745aed7ca28c5b12d64fa1806e16",
@@ -79,8 +3440,8 @@
         ]
       },
       {
-        "insertions": 51,
-        "deletions": 56,
+        "insertions": 52,
+        "deletions": 60,
         "date": "2018-07-27",
         "commitResults": [
           {
@@ -92,8 +3453,8 @@
           {
             "hash": "09d28bff3a362d64f238af688bc68fbf4d5cbf6b",
             "message": "[#223] Dashboard: sort by authors by name within repo  (#233)",
-            "insertions": 1,
-            "deletions": 1
+            "insertions": 2,
+            "deletions": 5
           }
         ]
       },
@@ -297,6 +3658,19 @@
         ]
       },
       {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2018-12-10",
+        "commitResults": [
+          {
+            "hash": "0abf191c8b85238d90849ea1818bad558bb0d948",
+            "message": "[#409] Fix Gradle task npmRunSpuild not working as intended (#410)",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
         "insertions": 96,
         "deletions": 10,
         "date": "2018-12-14",
@@ -323,28 +3697,28 @@
         ]
       },
       {
-        "insertions": 72,
-        "deletions": 75,
+        "insertions": 77,
+        "deletions": 85,
         "date": "2019-01-30",
         "commitResults": [
           {
             "hash": "a7e6617519f8048c324c5ae07bc829ccd843ea80",
             "message": "[#502] Enable ESLint JavaScript linter on travis (#514)",
-            "insertions": 72,
-            "deletions": 75
+            "insertions": 77,
+            "deletions": 85
           }
         ]
       },
       {
-        "insertions": 162,
-        "deletions": 164,
+        "insertions": 14614,
+        "deletions": 3411,
         "date": "2019-02-08",
         "commitResults": [
           {
             "hash": "0fa163e163f63967545349bf921325915fc4c36e",
             "message": "[#468] Add per-commit granularity to the report (#500)",
-            "insertions": 162,
-            "deletions": 164
+            "insertions": 14614,
+            "deletions": 3411
           }
         ]
       },
@@ -388,938 +3762,379 @@
         ]
       },
       {
-        "insertions": 2,
-        "deletions": 2,
+        "insertions": 297,
+        "deletions": 297,
         "date": "2019-04-16",
         "commitResults": [
           {
             "hash": "7640e703acbcfbb55699c80dd4ca53add97511e4",
             "message": "[#603] GitLog: replace author date with commit date (#641)",
-            "insertions": 2,
-            "deletions": 2
+            "insertions": 297,
+            "deletions": 297
           }
         ]
       },
       {
-        "insertions": 284,
-        "deletions": 360,
+        "insertions": 371,
+        "deletions": 98,
         "date": "2019-05-30",
         "commitResults": [
           {
             "hash": "a6b3cac11da8860c30eacafef8f3a488e9fc31f7",
             "message": "Report: Add zoom in feature for ramp charts (#573)",
-            "insertions": 284,
-            "deletions": 360
+            "insertions": 371,
+            "deletions": 98
           }
         ]
       }
     ],
-    "AdityaA1998": [
-      {
-        "insertions": 227,
-        "deletions": 23,
-        "date": "2018-06-07",
-        "commitResults": [
-          {
-            "hash": "00e6e7972cf739a6889ecd6a18199e846387005f",
-            "message": "[#98] Implement a logger (#123)",
-            "insertions": 227,
-            "deletions": 23
-          }
-        ]
-      },
+    "Lee Jin Yao": [
       {
         "insertions": 1,
-        "deletions": 12,
-        "date": "2018-06-14",
+        "deletions": 1,
+        "date": "2019-05-22",
         "commitResults": [
           {
-            "hash": "097ff3f7103b4f5bcfc662c55da3e805e3e8423d",
-            "message": "[#139] Clean up the logger output  (#145)",
+            "hash": "27655c76427fd97a00b3ee2debcd348c8b94b047",
+            "message": "[#667] Report: fix search bar not displaying value provided by url parameter (#676)",
             "insertions": 1,
-            "deletions": 12
-          }
-        ]
-      },
-      {
-        "insertions": 23,
-        "deletions": 3,
-        "date": "2018-06-18",
-        "commitResults": [
-          {
-            "hash": "8f51595a9394f0e4fb2c09beef668f36b3c91128",
-            "message": "[#132] Configure gradle to run with arguments (#136)",
-            "insertions": 23,
-            "deletions": 3
-          }
-        ]
-      },
-      {
-        "insertions": 184,
-        "deletions": 40,
-        "date": "2018-07-15",
-        "commitResults": [
-          {
-            "hash": "e2c8d55addec2fb60d580e749011f0287d584002",
-            "message": "FileUtil: add zip function for offline preview (#152)",
-            "insertions": 184,
-            "deletions": 40
-          }
-        ]
-      },
-      {
-        "insertions": 148,
-        "deletions": 15,
-        "date": "2018-07-23",
-        "commitResults": [
-          {
-            "hash": "24365e9a26bb4b10c87c3d65cfce55a91e976fac",
-            "message": "Add functionality to start the web server to display the dashboard (#211)",
-            "insertions": 148,
-            "deletions": 15
-          }
-        ]
-      },
-      {
-        "insertions": 46,
-        "deletions": 7,
-        "date": "2018-07-26",
-        "commitResults": [
-          {
-            "hash": "362a7f58a7099459f11eb8b4791898531bba6308",
-            "message": "Include timestamp footer in the dashboard (#235)",
-            "insertions": 46,
-            "deletions": 7
-          }
-        ]
-      },
-      {
-        "insertions": 51,
-        "deletions": 15,
-        "date": "2018-08-02",
-        "commitResults": [
-          {
-            "hash": "00d0c190febced8e3088314e2832535c364413d3",
-            "message": "[#188] Dashboard: code panel graphical improvement (#257)",
-            "insertions": 51,
-            "deletions": 15
-          }
-        ]
-      }
-    ],
-    "yamidark": [
-      {
-        "insertions": 213,
-        "deletions": 262,
-        "date": "2018-05-31",
-        "commitResults": [
-          {
-            "hash": "555d0caa633c1037a913857ec17d521a93c3e95b",
-            "message": "[#107] Shift from File to Path class (#114)",
-            "insertions": 213,
-            "deletions": 262
-          }
-        ]
-      },
-      {
-        "insertions": 36,
-        "deletions": 42,
-        "date": "2018-06-04",
-        "commitResults": [
-          {
-            "hash": "b7bab4cea243aca7ea857d49d7c3935ee1e276c0",
-            "message": "Improve performance (#126)",
-            "insertions": 36,
-            "deletions": 42
-          }
-        ]
-      },
-      {
-        "insertions": 1047,
-        "deletions": 936,
-        "date": "2018-06-22",
-        "commitResults": [
-          {
-            "hash": "87571e26e9792c62b602b2760906db234b68b3c7",
-            "message": "[#69] Architecture: apply separation of concern to multiple classes (#147)",
-            "insertions": 1047,
-            "deletions": 936
-          }
-        ]
-      },
-      {
-        "insertions": 5,
-        "deletions": 5,
-        "date": "2018-06-26",
-        "commitResults": [
-          {
-            "hash": "978ec5d5ca50ed96529ce1fb5057563849224fa9",
-            "message": "[#131] Redirect functional test to use testrepo (#133)",
-            "insertions": 5,
-            "deletions": 5
-          }
-        ]
-      },
-      {
-        "insertions": 128,
-        "deletions": 170,
-        "date": "2018-07-08",
-        "commitResults": [
-          {
-            "hash": "9bc31f82fe9594b54c77b780f5d670e595cbf1f7",
-            "message": "Update developer guide (#151)",
-            "insertions": 128,
-            "deletions": 170
-          }
-        ]
-      },
-      {
-        "insertions": 3,
-        "deletions": 4,
-        "date": "2018-07-10",
-        "commitResults": [
-          {
-            "hash": "f758253fdba88fd3fecd00d082bba202faaa0025",
-            "message": "Fix link in README and dependency notes in UserGuide (#175)",
-            "insertions": 3,
-            "deletions": 4
-          }
-        ]
-      },
-      {
-        "insertions": 64,
-        "deletions": 12,
-        "date": "2018-07-12",
-        "commitResults": [
-          {
-            "hash": "968c6a8565bf5a66d18570a2d52dc7ff567ad7dd",
-            "message": "[#177] Add more default file types to analyze (#178)",
-            "insertions": 64,
-            "deletions": 12
-          }
-        ]
-      },
-      {
-        "insertions": 21,
-        "deletions": 3,
-        "date": "2018-07-13",
-        "commitResults": [
-          {
-            "hash": "1f222c0fd93fd8c5399a27c18aa03c03871f7cee",
-            "message": "[#182, #183] FileInfoExtractor: decode non-UTF-8 characters (#180)",
-            "insertions": 21,
-            "deletions": 3
+            "deletions": 1
           }
         ]
       },
       {
         "insertions": 8,
-        "deletions": 8,
-        "date": "2018-07-19",
-        "commitResults": [
-          {
-            "hash": "9e374e050fbd53de439592162cf8e190fab5f970",
-            "message": "build.gradle: fix output location for jar file (#208)",
-            "insertions": 1,
-            "deletions": 1
-          },
-          {
-            "hash": "aa36ea50b6bca88b9a0fba38091b7624cc6bc8a8",
-            "message": "[#206] Fix different branches of same repository using same display name (#207)",
-            "insertions": 7,
-            "deletions": 7
-          }
-        ]
-      },
-      {
-        "insertions": 280,
-        "deletions": 30,
-        "date": "2018-07-20",
-        "commitResults": [
-          {
-            "hash": "b6d844d42411bb867e865ebc99fb5ebeeefe31d8",
-            "message": "Remove copy move detection for CommandRunner#blameRaw (#212)",
-            "insertions": 1,
-            "deletions": 1
-          },
-          {
-            "hash": "5b5c645f1a276e06954c85d644dfc75f1276fb6a",
-            "message": "[#203] Authorship: incorrect line authorship when analyzing date range (#205)",
-            "insertions": 279,
-            "deletions": 29
-          }
-        ]
-      },
-      {
-        "insertions": 12,
-        "deletions": 3,
-        "date": "2018-07-21",
-        "commitResults": [
-          {
-            "hash": "a76a1b4d1492aeb9c8c2662fc9f06d68b21f5c0e",
-            "message": "[#215] Extracting info from git diff is not working as expected (#216)",
-            "insertions": 12,
-            "deletions": 3
-          }
-        ]
-      },
-      {
-        "insertions": 145,
-        "deletions": 40,
-        "date": "2018-07-24",
-        "commitResults": [
-          {
-            "hash": "73e1f10510d89d409fd4609f1be744217760ca37",
-            "message": "[#218] Add support for file exclusion patterns (#229)",
-            "insertions": 145,
-            "deletions": 40
-          }
-        ]
-      },
-      {
-        "insertions": 182,
-        "deletions": 77,
-        "date": "2018-07-26",
-        "commitResults": [
-          {
-            "hash": "41590a93be29d249e3a6b17612a17f4d01de2670",
-            "message": "[#234] Modify analysis of files and commits to be at Author level (#236)",
-            "insertions": 165,
-            "deletions": 75
-          },
-          {
-            "hash": "14b7c569e65fedaaadbd2f2143f3d383fcb2346f",
-            "message": "Fix empty ramps when overriding RepoConfiguration (#243)",
-            "insertions": 17,
-            "deletions": 2
-          }
-        ]
-      },
-      {
-        "insertions": 67,
-        "deletions": 5,
-        "date": "2018-08-16",
-        "commitResults": [
-          {
-            "hash": "cc1cfbf95f8338d114d82899ad15ca6107485bf3",
-            "message": "[#299] Fix error matching file path pattern inside file diff result (#300)",
-            "insertions": 35,
-            "deletions": 4
-          },
-          {
-            "hash": "f6f5f2640e59d76d6a8702ee3586ef654181d1d5",
-            "message": "[#301] Hotfix: report folder not generated when failed to analyze repo (#302)",
-            "insertions": 32,
-            "deletions": 1
-          }
-        ]
-      },
-      {
-        "insertions": 311,
-        "deletions": 53,
-        "date": "2018-08-19",
-        "commitResults": [
-          {
-            "hash": "e9bff1bbca722268a3088ec52926e1ec0cfbd2c5",
-            "message": "[#246] Add support for repo-level commit exclusion (#261)",
-            "insertions": 311,
-            "deletions": 53
-          }
-        ]
-      },
-      {
-        "insertions": 57,
-        "deletions": 42,
-        "date": "2018-08-29",
-        "commitResults": [
-          {
-            "hash": "9a44435e5c9cdc841d0b51acf01fcb64c093fa85",
-            "message": "Clean up build.gradle (#309)",
-            "insertions": 44,
-            "deletions": 29
-          },
-          {
-            "hash": "f27a1902fe81687c999af012d45753d859ff0313",
-            "message": "[#85] Rename functional to systemtest (#306)",
-            "insertions": 13,
-            "deletions": 13
-          }
-        ]
-      },
-      {
-        "insertions": 134,
-        "deletions": 102,
-        "date": "2018-09-27",
-        "commitResults": [
-          {
-            "hash": "f9b37ce7d37f094f0df18096c84d3ce5e0596c25",
-            "message": "[#340] Allow non-alpha-numeric characters in GitHub usernames (#347)",
-            "insertions": 134,
-            "deletions": 102
-          }
-        ]
-      },
-      {
-        "insertions": 74,
-        "deletions": 12,
-        "date": "2018-09-28",
-        "commitResults": [
-          {
-            "hash": "1db15975ba82c913195fd7588527f51ff13f6c0b",
-            "message": "[#341] Show only authors who have contributed during analysis period (#349)",
-            "insertions": 74,
-            "deletions": 12
-          }
-        ]
-      },
-      {
-        "insertions": 15,
-        "deletions": 52,
-        "date": "2018-10-07",
-        "commitResults": [
-          {
-            "hash": "c05f000e0daf69de292a4c53201fc8c47213fae5",
-            "message": "[#357] FileInfoExtractor: use cleaner alternative to extract code change (#361)",
-            "insertions": 15,
-            "deletions": 52
-          }
-        ]
-      },
-      {
-        "insertions": 51,
-        "deletions": 5,
-        "date": "2018-10-15",
-        "commitResults": [
-          {
-            "hash": "be94eedde7dd797793cd29b2af425a5d2e69f486",
-            "message": "[#370] Fix uncaught InvalidPathException due to Illegal char \u003c:\u003e in file name (#371)",
-            "insertions": 51,
-            "deletions": 5
-          }
-        ]
-      },
-      {
-        "insertions": 27,
-        "deletions": 0,
-        "date": "2019-01-23",
-        "commitResults": [
-          {
-            "hash": "ad10410d26aba8dbcfe1b13cbcd752ad544accf8",
-            "message": "[#297] UserGuide: add FAQ section to address common problems (#494)",
-            "insertions": 27,
-            "deletions": 0
-          }
-        ]
-      },
-      {
-        "insertions": 12,
         "deletions": 2,
-        "date": "2019-02-24",
+        "date": "2019-06-03",
         "commitResults": [
           {
-            "hash": "ca24a0dfa0d04b633559b8806702ba658a11c255",
-            "message": "[#546] FAQ: add another entry to propose email as alternative to GitHub ID (#568)",
-            "insertions": 12,
+            "hash": "358440932d705337e318e89232a5da0d4d4f0775",
+            "message": "[#695] Report: allow reset of date controls (#700)",
+            "insertions": 8,
             "deletions": 2
-          }
-        ]
-      }
-    ],
-    "yong24s": [
-      {
-        "insertions": 0,
-        "deletions": 32,
-        "date": "2018-05-17",
-        "commitResults": [
-          {
-            "hash": "9200172371fa1cb70b256a8f48076e8562580d56",
-            "message": "[#70] Remove unused class Console (#108)",
-            "insertions": 0,
-            "deletions": 32
-          }
-        ]
-      },
-      {
-        "insertions": 201,
-        "deletions": 90,
-        "date": "2018-05-20",
-        "commitResults": [
-          {
-            "hash": "a97429dc07a67a674190923f4e748c69976d1ec2",
-            "message": "Apply single responsibility principle to frontend component (#99)",
-            "insertions": 201,
-            "deletions": 90
-          }
-        ]
-      },
-      {
-        "insertions": 367,
-        "deletions": 171,
-        "date": "2018-06-09",
-        "commitResults": [
-          {
-            "hash": "ec45509189bf4a07654e16b2466ad7fedb1d56bc",
-            "message": "Increase parsing capabilities using third-party library (#128)",
-            "insertions": 367,
-            "deletions": 171
           }
         ]
       },
       {
         "insertions": 5,
-        "deletions": 4,
-        "date": "2018-06-11",
-        "commitResults": [
-          {
-            "hash": "f22c90cbf5e9fd85d2026884e0daa36e1ccb400e",
-            "message": "[#128] Fix failing ArgParser unit tests on Windows systems (#141)",
-            "insertions": 5,
-            "deletions": 4
-          }
-        ]
-      },
-      {
-        "insertions": 243,
-        "deletions": 144,
-        "date": "2018-06-18",
-        "commitResults": [
-          {
-            "hash": "d8e6cdf333f63119df6c4c7097742814b0a40925",
-            "message": "[#143] Enable macOS execution environment on Travis-CI (#144)",
-            "insertions": 10,
-            "deletions": 2
-          },
-          {
-            "hash": "c1cd11ae678c5e1e1ec79b0a6c0388b8ae4e23e9",
-            "message": "[#60] Simplify CSV configuration file format (#130)",
-            "insertions": 233,
-            "deletions": 142
-          }
-        ]
-      },
-      {
-        "insertions": 49,
-        "deletions": 63,
-        "date": "2018-07-02",
-        "commitResults": [
-          {
-            "hash": "b789ed919a642d36b12b0c1bc8831d1bb39f87a8",
-            "message": "Modification to accommodate netlify (#150)",
-            "insertions": 49,
-            "deletions": 63
-          }
-        ]
-      },
-      {
-        "insertions": 25,
-        "deletions": 16,
-        "date": "2018-07-16",
-        "commitResults": [
-          {
-            "hash": "d1ec823ca24763594b00279ca0b81a70e54ef797",
-            "message": "[#194] Fix invalid path when accessing jar resources (#196)",
-            "insertions": 25,
-            "deletions": 16
-          }
-        ]
-      },
-      {
-        "insertions": 127,
-        "deletions": 48,
-        "date": "2018-07-18",
-        "commitResults": [
-          {
-            "hash": "58e63c1c834afe587c28e03c952e8d98a320d7c1",
-            "message": "[#56] Add support for user-supplied file formats (#159)",
-            "insertions": 127,
-            "deletions": 48
-          }
-        ]
-      },
-      {
-        "insertions": 177,
-        "deletions": 124,
-        "date": "2018-07-23",
-        "commitResults": [
-          {
-            "hash": "5664a2a039cfc690c1f2bc78fe34e7a96dd9092b",
-            "message": "Allow location to be supplied into CSV Config File (#210)",
-            "insertions": 177,
-            "deletions": 124
-          }
-        ]
-      },
-      {
-        "insertions": 135,
-        "deletions": 64,
-        "date": "2018-07-30",
-        "commitResults": [
-          {
-            "hash": "0b001e0804b89b354fef0fd9de1de57787435ca6",
-            "message": "[#245] Change -config to use a configuration folder (#249)",
-            "insertions": 135,
-            "deletions": 64
-          }
-        ]
-      },
-      {
-        "insertions": 270,
-        "deletions": 61,
-        "date": "2018-07-31",
-        "commitResults": [
-          {
-            "hash": "9fcb851ab540c8f411f1d8fcdeafb745fc363dc3",
-            "message": "Support git and disk location as CLI inputs (#241)",
-            "insertions": 270,
-            "deletions": 61
-          }
-        ]
-      },
-      {
-        "insertions": 492,
-        "deletions": 190,
-        "date": "2018-08-02",
-        "commitResults": [
-          {
-            "hash": "0aeef436ef696b713ca3460c8c0c62e8b39bd5a1",
-            "message": "[#244] Add repo file exclusion patterns to standalone config (#248)",
-            "insertions": 104,
-            "deletions": 61
-          },
-          {
-            "hash": "fa6b680d6a13f9875969f0ed65aacf217d7546a1",
-            "message": "[#245] Split repo and author level configurations (#238)",
-            "insertions": 388,
-            "deletions": 129
-          }
-        ]
-      },
-      {
-        "insertions": 77,
-        "deletions": 5,
-        "date": "2018-08-03",
-        "commitResults": [
-          {
-            "hash": "42516d95bd6a5ea31302780a7b5993fb0e4e42c7",
-            "message": "[#275] Fix UnsupportedOperationException occurred during ignore glob list merge (#276)",
-            "insertions": 2,
-            "deletions": 1
-          },
-          {
-            "hash": "d9c1f2d84fb5a40abf3d25de3120e0e97480a82f",
-            "message": "Fix creation of many author configs (#278)",
-            "insertions": 7,
-            "deletions": 3
-          },
-          {
-            "hash": "939d9baa52d7596111f97b3c27b573deb40fa855",
-            "message": "Add tests to RepoConfiguration#merge (#279)",
-            "insertions": 68,
-            "deletions": 1
-          }
-        ]
-      },
-      {
-        "insertions": 140,
-        "deletions": 36,
-        "date": "2018-08-11",
-        "commitResults": [
-          {
-            "hash": "51397d39152086b17b01c78e6ece9fb06c8bde30",
-            "message": "Add functionality to ignore standalone config #272 (#288)",
-            "insertions": 140,
-            "deletions": 36
-          }
-        ]
-      },
-      {
-        "insertions": 162,
-        "deletions": 36,
-        "date": "2018-08-29",
-        "commitResults": [
-          {
-            "hash": "465acfeaa73530e9386f5aff6cfae864664c0b23",
-            "message": "[#271] Support specifying of file formats at repo level (#295)",
-            "insertions": 162,
-            "deletions": 36
-          }
-        ]
-      },
-      {
-        "insertions": 86,
         "deletions": 2,
-        "date": "2018-09-02",
+        "date": "2019-06-04",
         "commitResults": [
           {
-            "hash": "9583ab23caa4a4d7c599d03faa0651b85f34d515",
-            "message": "[#317] Add repo as alias to repos in CLI  (#322)",
-            "insertions": 86,
+            "hash": "d009bcbd8e0b7ccf4c82d340e5fea19fbe23d134",
+            "message": "[#506] Report: add checks to ensure that .zip file is uploaded (#693)",
+            "insertions": 5,
             "deletions": 2
           }
         ]
       },
       {
-        "insertions": 152,
-        "deletions": 6,
-        "date": "2018-10-14",
+        "insertions": 24,
+        "deletions": 14,
+        "date": "2019-06-26",
         "commitResults": [
           {
-            "hash": "0337d3666c13d7efbdc3a1ed65ab7155df856dfb",
-            "message": "[#366] Fix NullPointerException when accessing unfilled displayName in StandaloneConfig (#368)",
-            "insertions": 152,
+            "hash": "cfbe4a0042ba5e71b8f71390fb7ab76dcb3acf51",
+            "message": "[#681,#756] UG: update in accordance to change in Toolbar (#696)",
+            "insertions": 24,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 9,
+        "deletions": 6,
+        "date": "2019-06-27",
+        "commitResults": [
+          {
+            "hash": "1bc01e990391b800818820f4102e5d39958ce3a0",
+            "message": "[#721] Report: remove usage of spread operator (#766)",
+            "insertions": 9,
             "deletions": 6
           }
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 2,
-        "date": "2018-12-11",
+        "insertions": 115,
+        "deletions": 47,
+        "date": "2019-06-29",
         "commitResults": [
           {
-            "hash": "f5cfc81e5cee0c28c007453f32e47664dfe960b4",
-            "message": "[#413] Update Travis-CI configuration to fix pcre2 dependency (#414)",
-            "insertions": 0,
+            "hash": "2a83c22b1cdb5975aac1699ce9662acc605f3d40",
+            "message": "[#711] Analysis: ignore binary files (#728)",
+            "insertions": 115,
+            "deletions": 47
+          }
+        ]
+      },
+      {
+        "insertions": 138465,
+        "deletions": 76,
+        "date": "2019-06-30",
+        "commitResults": [
+          {
+            "hash": "ed5c1cf95679951b1e858c6469f3906e7b4f044f",
+            "message": "[#683,#688] Limit range of commits to one month if \"since date\" is not specified (#690)",
+            "insertions": 138465,
+            "deletions": 76
+          }
+        ]
+      },
+      {
+        "insertions": 13,
+        "deletions": 7,
+        "date": "2019-07-03",
+        "commitResults": [
+          {
+            "hash": "8ac91e8b6e083128429d2b6a2dddefe6eede9832",
+            "message": "[#781] Fix broken program when reserved character is used without escaping (#782)",
+            "insertions": 13,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 206,
+        "deletions": 55,
+        "date": "2019-07-13",
+        "commitResults": [
+          {
+            "hash": "784d4c3a60bbe4547cf5328febc58a3197aaae66",
+            "message": "[#567] Report#Zip: remove unrelated files and folders (#656)",
+            "insertions": 206,
+            "deletions": 55
+          }
+        ]
+      },
+      {
+        "insertions": 235,
+        "deletions": 133,
+        "date": "2019-07-17",
+        "commitResults": [
+          {
+            "hash": "e2c6b8c24edeb99ffe65a8c425978c5011d80db1",
+            "message": "[#738] CsvParser: fix incorrect splitting of literals commas (#739)",
+            "insertions": 156,
+            "deletions": 95
+          },
+          {
+            "hash": "88c4964f61cf797e6f0ab75925be1ae0851f43c9",
+            "message": "[#531,#707] Analysis: use all formats by default (#708)",
+            "insertions": 79,
+            "deletions": 38
+          }
+        ]
+      }
+    ],
+    "apoorva17": [
+      {
+        "insertions": 34,
+        "deletions": 26,
+        "date": "2018-09-06",
+        "commitResults": [
+          {
+            "hash": "a408387721ae24b8508466e51ea933479653b093",
+            "message": "[#305] Make -config an optional parameter (#318)",
+            "insertions": 34,
+            "deletions": 26
+          }
+        ]
+      },
+      {
+        "insertions": 11,
+        "deletions": 11,
+        "date": "2018-09-29",
+        "commitResults": [
+          {
+            "hash": "358accc596062ebfe94cf9eeb5d03e6f8b48a2fa",
+            "message": "[#345] Allow nonexistent folder in -output param (#348)",
+            "insertions": 11,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 108,
+        "deletions": 42,
+        "date": "2018-10-21",
+        "commitResults": [
+          {
+            "hash": "e4ccb669738b5605fb4b3858b894d4a95dce3765",
+            "message": "[#323] Make branch an optional field (#332)",
+            "insertions": 108,
+            "deletions": 42
+          }
+        ]
+      },
+      {
+        "insertions": 11,
+        "deletions": 0,
+        "date": "2018-10-23",
+        "commitResults": [
+          {
+            "hash": "1763f13bac87bb4dfb41d923102292114d301aee",
+            "message": "[#369] Show total contribution in code panel (#372)",
+            "insertions": 11,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 1,
+        "date": "2018-10-24",
+        "commitResults": [
+          {
+            "hash": "7bea61b20910b7f89b0e211d9fa16325a698b3d4",
+            "message": "[#362] Show analysis period in contribution bar tooltip (#365)",
+            "insertions": 4,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 2,
+        "date": "2018-11-01",
+        "commitResults": [
+          {
+            "hash": "0bd303610cd7bec55712107db8c06403bc6cab94",
+            "message": "[#386] Show analysis period for total contribution in code panel (#388)",
+            "insertions": 3,
             "deletions": 2
           }
         ]
       },
       {
-        "insertions": 70,
-        "deletions": 0,
-        "date": "2018-12-18",
+        "insertions": 14,
+        "deletions": 6,
+        "date": "2018-11-05",
         "commitResults": [
           {
-            "hash": "badbbc063ac8f3fca0073c0af0ca18ef8533b6cc",
-            "message": "[#402] Make StandaloneConfig foolproof to exceptions caused by trailing commas (#412)",
-            "insertions": 70,
-            "deletions": 0
+            "hash": "e0c0f5ca9f1e79c8d6abbb60c5407fb8ac4ff0d1",
+            "message": "[#376] Make the Expand/Collapse button a toggle button (#384)",
+            "insertions": 14,
+            "deletions": 6
           }
         ]
       },
       {
-        "insertions": 93,
-        "deletions": 0,
-        "date": "2019-01-27",
+        "insertions": 44,
+        "deletions": 2,
+        "date": "2018-11-15",
         "commitResults": [
           {
-            "hash": "572763e6690ffc40f92db7a54ff6dcd58e905c06",
-            "message": "[#23, #470] Use Travis-CI to automate publishing of report to GitHub Pages (#497)",
-            "insertions": 93,
-            "deletions": 0
+            "hash": "96799517751ac0054c3c9989ebf4814acff87db4",
+            "message": "Show breakdown of file type for total contribution in code panel (#387)",
+            "insertions": 44,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 41,
+        "deletions": 8,
+        "date": "2018-12-25",
+        "commitResults": [
+          {
+            "hash": "8d4eb1ec60ebad7e3f5d9f379ea106e584505738",
+            "message": "[#427] Show breakdown of blank lines for contribution in code view (#434)",
+            "insertions": 41,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 10,
+        "deletions": 1,
+        "date": "2019-01-25",
+        "commitResults": [
+          {
+            "hash": "2ad638aa853f4206cec0d691970eacb14a56bc4e",
+            "message": "[#464] Open dashboard with code-view shown (#478)",
+            "insertions": 10,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 1,
+        "date": "2019-02-09",
+        "commitResults": [
+          {
+            "hash": "deb9bc59f908a101232935f07def1a8de9826680",
+            "message": "[#487] ESLint: enforce indentation for MemberExpression (#550)",
+            "insertions": 2,
+            "deletions": 1
           }
         ]
       },
       {
         "insertions": 6,
-        "deletions": 8,
+        "deletions": 6,
         "date": "2019-02-12",
         "commitResults": [
           {
-            "hash": "f86a52617ee8ab13cdf696c0e196fdc90cf5f778",
-            "message": "Remove redundant commands in Travis config (#551)",
+            "hash": "85f16df34e2e1905e51a424071ed696398ed551c",
+            "message": "[#487] ESLint: enforce indentation for CallExpression (#553)",
             "insertions": 6,
-            "deletions": 8
+            "deletions": 6
           }
         ]
       },
       {
         "insertions": 4,
         "deletions": 3,
-        "date": "2019-02-17",
+        "date": "2019-02-27",
         "commitResults": [
           {
-            "hash": "9d19b75cbf36c47a50d419c1403875f2bafde02a",
-            "message": "[#537] build.gradle: fix files compilation order (#552)",
-            "insertions": 2,
-            "deletions": 1
-          },
-          {
-            "hash": "c8b0fa6e4f670b073f5b52cc3cdeef7324a393ce",
-            "message": "[#537] build.gradle: change tasks dependencies to compileJava (#563)",
-            "insertions": 2,
-            "deletions": 2
+            "hash": "6a85f30376af49047376ee6b6d4c809163aebe63",
+            "message": "ESLint: enforce indentation for ArrayExpression",
+            "insertions": 4,
+            "deletions": 3
           }
         ]
       },
       {
-        "insertions": 2,
-        "deletions": 1,
-        "date": "2019-02-20",
-        "commitResults": [
-          {
-            "hash": "afd231700b71029ecf2c57f54d083759d7f1fb12",
-            "message": "[#557] Travis: check scripts do not work in Travis macOS environment (#559)",
-            "insertions": 2,
-            "deletions": 1
-          }
-        ]
-      },
-      {
-        "insertions": 18,
-        "deletions": 5,
-        "date": "2019-02-21",
-        "commitResults": [
-          {
-            "hash": "b3425d2f1d61074f6ae4cd4ef6c796d04885a6f3",
-            "message": "Downgrade to JDK8 in CIs (#556)",
-            "insertions": 18,
-            "deletions": 5
-          }
-        ]
-      },
-      {
-        "insertions": 65,
-        "deletions": 1,
-        "date": "2019-02-25",
-        "commitResults": [
-          {
-            "hash": "c94360eb807f60d22601ec96944d391f82a36516",
-            "message": "[#480] Use Cypress to automate front-end testing (#555)",
-            "insertions": 65,
-            "deletions": 1
-          }
-        ]
-      },
-      {
-        "insertions": 196,
-        "deletions": 13,
-        "date": "2019-04-04",
-        "commitResults": [
-          {
-            "hash": "fed37581bbf17ae61a587256633be47924284b70",
-            "message": "[#391] GitLsTree: validate filepaths before cloning (#564)",
-            "insertions": 196,
-            "deletions": 13
-          }
-        ]
-      },
-      {
-        "insertions": 7,
+        "insertions": 90,
         "deletions": 7,
-        "date": "2019-04-20",
+        "date": "2019-03-06",
         "commitResults": [
           {
-            "hash": "5e556b9a4fdb892037da6395bf98606fbce52c64",
-            "message": "[#648]: .travis.yml: change oraclejdk8 to openjdk8 (#650)",
-            "insertions": 7,
+            "hash": "5da9d455b30f8f6de38d5728b5c585fa5f666936",
+            "message": "[#504] CodeView: add glob pattern search box (#532)",
+            "insertions": 90,
             "deletions": 7
           }
         ]
       },
       {
-        "insertions": 18,
-        "deletions": 3,
-        "date": "2019-06-10",
+        "insertions": 345,
+        "deletions": 66,
+        "date": "2019-03-12",
         "commitResults": [
           {
-            "hash": "3c6a148c07376ce2d2dc2a72b07588213cd574c2",
-            "message": "[#606] Enable use of deploy key for publishing (#732)",
-            "insertions": 18,
-            "deletions": 3
+            "hash": "662d175a5ab37aeee728147ec0877c08dfd7c82e",
+            "message": "[#456] ChartView: show breakdown of file formats in Contribution Bar (#487)",
+            "insertions": 345,
+            "deletions": 66
           }
         ]
       }
     ],
-    "eugenepeh": [
+    "Eugene Peh": [
       {
-        "insertions": 38,
-        "deletions": 3,
-        "date": "2018-05-03",
-        "commitResults": [
-          {
-            "hash": "203b9f613c30e0b51c658af4b5e0f243b3e6ad23",
-            "message": "DeveloperGuide: add setup instructions",
-            "insertions": 38,
-            "deletions": 3
-          }
-        ]
-      },
-      {
-        "insertions": 39,
-        "deletions": 17,
-        "date": "2018-05-05",
-        "commitResults": [
-          {
-            "hash": "3a20d00fa1fd666648d9b07d26965205598fef78",
-            "message": "Setup travis to execute test code",
-            "insertions": 21,
-            "deletions": 0
-          },
-          {
-            "hash": "21a4d1d779944b2926e688543d704058d1bebb04",
-            "message": "Travis: add files standardization tests",
-            "insertions": 2,
-            "deletions": 1
-          },
-          {
-            "hash": "e5db496348644ac49ad95cf61570c7a6f44fbacd",
-            "message": "Fix file standardization violations",
-            "insertions": 16,
-            "deletions": 16
-          }
-        ]
-      },
-      {
-        "insertions": 720,
-        "deletions": 729,
-        "date": "2018-05-06",
-        "commitResults": [
-          {
-            "hash": "213c4ebbc4e4a1e2c1a181a8c7500e40c7d88c93",
-            "message": "Checkstyle: fix some violations 1",
-            "insertions": 116,
-            "deletions": 125
-          },
-          {
-            "hash": "04fa0b31e8823bd1123dec0e574afacbe00bc952",
-            "message": "Checkstyle: fix some violations 2",
-            "insertions": 115,
-            "deletions": 118
-          },
-          {
-            "hash": "2d1718d39fdd0ddf60ed3420ae0e833b03520f76",
-            "message": "Checkstyle: fix some violations 3",
-            "insertions": 110,
-            "deletions": 83
-          },
-          {
-            "hash": "d3e40705850b412f1b6c6106a372f0f65201d30b",
-            "message": "Checkstyle: fix some violations 4",
-            "insertions": 105,
-            "deletions": 100
-          },
-          {
-            "hash": "52d21b94e74e15ed2950861237f6fcc891018974",
-            "message": "Checkstyle: fix some violations 5",
-            "insertions": 102,
-            "deletions": 106
-          },
-          {
-            "hash": "dac1e7be406ff32fa256bb6892bd88ab308d2dce",
-            "message": "Checkstyle: fix some violations 6",
-            "insertions": 95,
-            "deletions": 100
-          },
-          {
-            "hash": "3f8aedddd19a1de1ea7abbfb26c9df15fe7bac2e",
-            "message": "Checkstyle: fix some violations 7",
-            "insertions": 67,
-            "deletions": 94
-          },
-          {
-            "hash": "d8a264aa4bb443a4526d8ae6ed11667e1b86c8ff",
-            "message": "Travis: add checkstyle to CI test",
-            "insertions": 10,
-            "deletions": 3
-          }
-        ]
-      },
-      {
-        "insertions": 2,
+        "insertions": 4,
         "deletions": 0,
         "date": "2018-05-07",
         "commitResults": [
+          {
+            "hash": "3e3ac2c1fa4d047d0546d2cb1a8f1bf38e0e7ab3",
+            "message": "[#64] README: embed travis status badge (#67)",
+            "insertions": 2,
+            "deletions": 0
+          },
           {
             "hash": "3e3ac2c1fa4d047d0546d2cb1a8f1bf38e0e7ab3",
             "message": "[#64] README: embed travis status badge (#67)",
@@ -1329,10 +4144,16 @@
         ]
       },
       {
-        "insertions": 2,
-        "deletions": 2,
+        "insertions": 4,
+        "deletions": 4,
         "date": "2018-05-09",
         "commitResults": [
+          {
+            "hash": "b75bb63c782a116ebddad44a397648ea6ee4d666",
+            "message": "[#73] Move test repository inside reposense organisation (#74)",
+            "insertions": 2,
+            "deletions": 2
+          },
           {
             "hash": "b75bb63c782a116ebddad44a397648ea6ee4d666",
             "message": "[#73] Move test repository inside reposense organisation (#74)",
@@ -1342,10 +4163,16 @@
         ]
       },
       {
-        "insertions": 85,
-        "deletions": 199,
+        "insertions": 170,
+        "deletions": 398,
         "date": "2018-05-10",
         "commitResults": [
+          {
+            "hash": "bd8b646a4fbc7bb7119af0cfed2dd60f811ad44d",
+            "message": "[#70] Remove GUI (#77)",
+            "insertions": 29,
+            "deletions": 182
+          },
           {
             "hash": "bd8b646a4fbc7bb7119af0cfed2dd60f811ad44d",
             "message": "[#70] Remove GUI (#77)",
@@ -1359,6 +4186,18 @@
             "deletions": 2
           },
           {
+            "hash": "a1e09df663b68cba810023fcf565cb5f2a041298",
+            "message": "Docs: add work process guidelines (#75)",
+            "insertions": 27,
+            "deletions": 2
+          },
+          {
+            "hash": "134c4e0cf4e01fc28362cd918eaa495c36996ce3",
+            "message": "Gradle: replace build with shadowJar plugin (#68)",
+            "insertions": 29,
+            "deletions": 15
+          },
+          {
             "hash": "134c4e0cf4e01fc28362cd918eaa495c36996ce3",
             "message": "Gradle: replace build with shadowJar plugin (#68)",
             "insertions": 29,
@@ -1367,10 +4206,16 @@
         ]
       },
       {
-        "insertions": 210,
-        "deletions": 166,
+        "insertions": 422,
+        "deletions": 334,
         "date": "2018-05-12",
         "commitResults": [
+          {
+            "hash": "ef2238a6f48fb7c641224b1807bb367e938f090c",
+            "message": " Prefix all packages with organisation name (#80)",
+            "insertions": 155,
+            "deletions": 153
+          },
           {
             "hash": "ef2238a6f48fb7c641224b1807bb367e938f090c",
             "message": " Prefix all packages with organisation name (#80)",
@@ -1384,18 +4229,36 @@
             "deletions": 1
           },
           {
+            "hash": "ed7a056fbb03213af4731791404a2b37f0d0ea16",
+            "message": "Docs: add using Checkstyle-IDEA plugin on IntelliJ (#76)",
+            "insertions": 44,
+            "deletions": 1
+          },
+          {
             "hash": "9be121951f0e1bd9948fe7e34485ee721a62ed8a",
             "message": "Gradle: upgrade to version 4.7 (#83)",
-            "insertions": 11,
-            "deletions": 12
+            "insertions": 12,
+            "deletions": 13
+          },
+          {
+            "hash": "9be121951f0e1bd9948fe7e34485ee721a62ed8a",
+            "message": "Gradle: upgrade to version 4.7 (#83)",
+            "insertions": 12,
+            "deletions": 13
           }
         ]
       },
       {
-        "insertions": 1,
-        "deletions": 1,
+        "insertions": 2,
+        "deletions": 2,
         "date": "2018-05-14",
         "commitResults": [
+          {
+            "hash": "0029569a040f466229c8e6e0027f01ae6082d107",
+            "message": "Fix main class could not be found (#89)",
+            "insertions": 1,
+            "deletions": 1
+          },
           {
             "hash": "0029569a040f466229c8e6e0027f01ae6082d107",
             "message": "Fix main class could not be found (#89)",
@@ -1405,10 +4268,16 @@
         ]
       },
       {
-        "insertions": 1,
-        "deletions": 1,
+        "insertions": 2,
+        "deletions": 2,
         "date": "2018-05-15",
         "commitResults": [
+          {
+            "hash": "5aedfc3b781d035283f0d9dd77d4c03c2f0ec2bf",
+            "message": "Travis: add functional to CI test (#96)",
+            "insertions": 1,
+            "deletions": 1
+          },
           {
             "hash": "5aedfc3b781d035283f0d9dd77d4c03c2f0ec2bf",
             "message": "Travis: add functional to CI test (#96)",
@@ -1418,10 +4287,16 @@
         ]
       },
       {
-        "insertions": 78,
-        "deletions": 132,
+        "insertions": 156,
+        "deletions": 264,
         "date": "2018-05-16",
         "commitResults": [
+          {
+            "hash": "4dec6640ef992114dbf32a5e0721a0dcf8db8f88",
+            "message": "[#72] Remove threading (#104)",
+            "insertions": 36,
+            "deletions": 74
+          },
           {
             "hash": "4dec6640ef992114dbf32a5e0721a0dcf8db8f88",
             "message": "[#72] Remove threading (#104)",
@@ -1433,14 +4308,45 @@
             "message": "[#69] Remove RepoInfo\u0027s dependency on FileInfo (#95)",
             "insertions": 42,
             "deletions": 58
+          },
+          {
+            "hash": "b6258ed06e0a2aaaaa050516740548b3c1d41a4d",
+            "message": "[#69] Remove RepoInfo\u0027s dependency on FileInfo (#95)",
+            "insertions": 42,
+            "deletions": 58
           }
         ]
       },
       {
-        "insertions": 64,
-        "deletions": 13,
+        "insertions": 788112,
+        "deletions": 32,
+        "date": "2018-05-17",
+        "commitResults": [
+          {
+            "hash": "14faede3d27097a74063fd407b210f8a5f7e3de5",
+            "message": "Restore functional test (#106)",
+            "insertions": 394056,
+            "deletions": 16
+          },
+          {
+            "hash": "14faede3d27097a74063fd407b210f8a5f7e3de5",
+            "message": "Restore functional test (#106)",
+            "insertions": 394056,
+            "deletions": 16
+          }
+        ]
+      },
+      {
+        "insertions": 128,
+        "deletions": 26,
         "date": "2018-05-24",
         "commitResults": [
+          {
+            "hash": "0f12e9466616d8fc26e4efe952190f74383e7e8c",
+            "message": "TestUtil: add file content comparison method (#122)",
+            "insertions": 64,
+            "deletions": 13
+          },
           {
             "hash": "0f12e9466616d8fc26e4efe952190f74383e7e8c",
             "message": "TestUtil: add file content comparison method (#122)",
@@ -1450,36 +4356,54 @@
         ]
       },
       {
-        "insertions": 148,
-        "deletions": 394288,
+        "insertions": 16580,
+        "deletions": 16760,
         "date": "2018-05-25",
         "commitResults": [
           {
             "hash": "e23463a59d73fb87c1dfea588e3eb4bc4daf9c2b",
             "message": "Split contribution summary by repository #69 (#111)",
-            "insertions": 148,
-            "deletions": 394288
+            "insertions": 8290,
+            "deletions": 8380
+          },
+          {
+            "hash": "e23463a59d73fb87c1dfea588e3eb4bc4daf9c2b",
+            "message": "Split contribution summary by repository #69 (#111)",
+            "insertions": 8290,
+            "deletions": 8380
           }
         ]
       },
       {
-        "insertions": 10,
-        "deletions": 5,
+        "insertions": 3378,
+        "deletions": 2360,
         "date": "2018-05-31",
         "commitResults": [
           {
             "hash": "b686f101af317bdd361153af72ee0932efa338c0",
             "message": "Fix datetime inconsistency (#125)",
-            "insertions": 10,
-            "deletions": 5
+            "insertions": 1689,
+            "deletions": 1180
+          },
+          {
+            "hash": "b686f101af317bdd361153af72ee0932efa338c0",
+            "message": "Fix datetime inconsistency (#125)",
+            "insertions": 1689,
+            "deletions": 1180
           }
         ]
       },
       {
-        "insertions": 19,
+        "insertions": 38,
         "deletions": 0,
         "date": "2018-06-12",
         "commitResults": [
+          {
+            "hash": "842e8a512ed62d72907b0652ce1e3806196a2f47",
+            "message": "Setup AppVeyor CI (#142)",
+            "insertions": 19,
+            "deletions": 0
+          },
           {
             "hash": "842e8a512ed62d72907b0652ce1e3806196a2f47",
             "message": "Setup AppVeyor CI (#142)",
@@ -1489,10 +4413,16 @@
         ]
       },
       {
-        "insertions": 107,
-        "deletions": 66,
+        "insertions": 214,
+        "deletions": 132,
         "date": "2018-06-20",
         "commitResults": [
+          {
+            "hash": "e3b30542a0687cd8d3dc8804f3e68767cb74dba9",
+            "message": "[#140] Cleanup user guide (#146)",
+            "insertions": 107,
+            "deletions": 66
+          },
           {
             "hash": "e3b30542a0687cd8d3dc8804f3e68767cb74dba9",
             "message": "[#140] Cleanup user guide (#146)",
@@ -1502,23 +4432,54 @@
         ]
       },
       {
-        "insertions": 2085,
-        "deletions": 481,
+        "insertions": 4228,
+        "deletions": 2098,
         "date": "2018-07-12",
         "commitResults": [
           {
             "hash": "c247eeb36846b17006169d0f477b6b49f1db8729",
             "message": "Dashboard revamp (#163)",
-            "insertions": 2085,
-            "deletions": 481
+            "insertions": 2114,
+            "deletions": 1049
+          },
+          {
+            "hash": "c247eeb36846b17006169d0f477b6b49f1db8729",
+            "message": "Dashboard revamp (#163)",
+            "insertions": 2114,
+            "deletions": 1049
           }
         ]
       },
       {
-        "insertions": 7,
-        "deletions": 2,
+        "insertions": 2,
+        "deletions": 0,
+        "date": "2018-07-28",
+        "commitResults": [
+          {
+            "hash": "5a3692093c3dece50fc9659b1b740e038e6c1fc3",
+            "message": "Add RepoSense to sample config (#250)",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "5a3692093c3dece50fc9659b1b740e038e6c1fc3",
+            "message": "Add RepoSense to sample config (#250)",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 14,
+        "deletions": 4,
         "date": "2018-08-04",
         "commitResults": [
+          {
+            "hash": "4913e50ff961a5e6f93997bb8de4739515e3b502",
+            "message": "[#226] Add clickable link to repositories (#281)",
+            "insertions": 7,
+            "deletions": 2
+          },
           {
             "hash": "4913e50ff961a5e6f93997bb8de4739515e3b502",
             "message": "[#226] Add clickable link to repositories (#281)",
@@ -1528,21 +4489,27 @@
         ]
       },
       {
-        "insertions": 294,
-        "deletions": 19,
+        "insertions": 878,
+        "deletions": 38,
         "date": "2018-08-06",
         "commitResults": [
           {
             "hash": "8dccfd4737b6f7ba287e6a0d92ed53dc0ca248cd",
             "message": "Security patch for using remote data as params (#283)",
-            "insertions": 294,
+            "insertions": 439,
+            "deletions": 19
+          },
+          {
+            "hash": "8dccfd4737b6f7ba287e6a0d92ed53dc0ca248cd",
+            "message": "Security patch for using remote data as params (#283)",
+            "insertions": 439,
             "deletions": 19
           }
         ]
       },
       {
-        "insertions": 163,
-        "deletions": 24,
+        "insertions": 1030,
+        "deletions": 48,
         "date": "2018-08-14",
         "commitResults": [
           {
@@ -1552,18 +4519,36 @@
             "deletions": 0
           },
           {
+            "hash": "265444825eec87e4f6881629ccdadb13a13e7193",
+            "message": "[#293] List RepoSense team in the README.md (#296)",
+            "insertions": 11,
+            "deletions": 0
+          },
+          {
             "hash": "504a76879f8e6df1601d43842e1c8f141eb3e8eb",
             "message": "[#277] Make authors configuration completely optional (#294)",
-            "insertions": 152,
+            "insertions": 504,
+            "deletions": 24
+          },
+          {
+            "hash": "504a76879f8e6df1601d43842e1c8f141eb3e8eb",
+            "message": "[#277] Make authors configuration completely optional (#294)",
+            "insertions": 504,
             "deletions": 24
           }
         ]
       },
       {
-        "insertions": 18,
+        "insertions": 36,
         "deletions": 0,
         "date": "2018-08-25",
         "commitResults": [
+          {
+            "hash": "87c25b058e297ed0356a7c5c2d6b6808f7fd3c0d",
+            "message": "[#36] Code view: add controls to expand/collapse all files (#307)",
+            "insertions": 18,
+            "deletions": 0
+          },
           {
             "hash": "87c25b058e297ed0356a7c5c2d6b6808f7fd3c0d",
             "message": "[#36] Code view: add controls to expand/collapse all files (#307)",
@@ -1573,10 +4558,16 @@
         ]
       },
       {
-        "insertions": 2,
+        "insertions": 4,
         "deletions": 0,
         "date": "2018-08-26",
         "commitResults": [
+          {
+            "hash": "bd044048a9fdd3d26abf6ada4b6bcfe74655dd63",
+            "message": "README: update badges (#313)",
+            "insertions": 2,
+            "deletions": 0
+          },
           {
             "hash": "bd044048a9fdd3d26abf6ada4b6bcfe74655dd63",
             "message": "README: update badges (#313)",
@@ -1586,10 +4577,16 @@
         ]
       },
       {
-        "insertions": 12,
-        "deletions": 5,
+        "insertions": 24,
+        "deletions": 10,
         "date": "2018-08-27",
         "commitResults": [
+          {
+            "hash": "7ea9c0cb315b3aafe19287dc019ae986cc5a4554",
+            "message": "[#311] code view: differentiate untouched code more (#314)",
+            "insertions": 12,
+            "deletions": 5
+          },
           {
             "hash": "7ea9c0cb315b3aafe19287dc019ae986cc5a4554",
             "message": "[#311] code view: differentiate untouched code more (#314)",
@@ -1599,15 +4596,27 @@
         ]
       },
       {
-        "insertions": 56,
-        "deletions": 13,
+        "insertions": 136,
+        "deletions": 26,
         "date": "2018-09-01",
         "commitResults": [
           {
             "hash": "5b060821d2a5dc46e421da59c539c433cae90916",
             "message": "[#325] Replace the usage of findstr and grep (#324)",
-            "insertions": 55,
+            "insertions": 67,
             "deletions": 12
+          },
+          {
+            "hash": "5b060821d2a5dc46e421da59c539c433cae90916",
+            "message": "[#325] Replace the usage of findstr and grep (#324)",
+            "insertions": 67,
+            "deletions": 12
+          },
+          {
+            "hash": "eb4fa98bd0bf115e7068dd05e25dc68ae6c181e7",
+            "message": "README: update url to UserGuide (#327)",
+            "insertions": 1,
+            "deletions": 1
           },
           {
             "hash": "eb4fa98bd0bf115e7068dd05e25dc68ae6c181e7",
@@ -1618,10 +4627,16 @@
         ]
       },
       {
-        "insertions": 29,
-        "deletions": 14,
+        "insertions": 58,
+        "deletions": 28,
         "date": "2018-09-04",
         "commitResults": [
+          {
+            "hash": "37fdfff32352fe0fdb2e90e603864885d2911705",
+            "message": "[#328] UserGuide: add instruction for multi-value fields and columns (#333)",
+            "insertions": 29,
+            "deletions": 14
+          },
           {
             "hash": "37fdfff32352fe0fdb2e90e603864885d2911705",
             "message": "[#328] UserGuide: add instruction for multi-value fields and columns (#333)",
@@ -1631,10 +4646,16 @@
         ]
       },
       {
-        "insertions": 92,
-        "deletions": 57,
+        "insertions": 184,
+        "deletions": 114,
         "date": "2018-09-10",
         "commitResults": [
+          {
+            "hash": "e0d1290cbbb923dedc08b2159deb417b2204533b",
+            "message": "[#329] UserGuide: clean up and rearrange sections (#334)",
+            "insertions": 92,
+            "deletions": 57
+          },
           {
             "hash": "e0d1290cbbb923dedc08b2159deb417b2204533b",
             "message": "[#329] UserGuide: clean up and rearrange sections (#334)",
@@ -1644,10 +4665,16 @@
         ]
       },
       {
-        "insertions": 30,
-        "deletions": 30,
+        "insertions": 60,
+        "deletions": 60,
         "date": "2018-09-15",
         "commitResults": [
+          {
+            "hash": "3d73cf6420bffd1536b53a1bbe2396f99ccc48af",
+            "message": "[#331] UserGuide: update outdated content (#335)",
+            "insertions": 30,
+            "deletions": 30
+          },
           {
             "hash": "3d73cf6420bffd1536b53a1bbe2396f99ccc48af",
             "message": "[#331] UserGuide: update outdated content (#335)",
@@ -1657,10 +4684,16 @@
         ]
       },
       {
-        "insertions": 13,
-        "deletions": 10,
+        "insertions": 26,
+        "deletions": 20,
         "date": "2018-09-28",
         "commitResults": [
+          {
+            "hash": "87f7b567fbbed0e98a1b0aaeba65cd36562b24a2",
+            "message": "[#342] Fix inconsistent length of contribution bar (#346)",
+            "insertions": 13,
+            "deletions": 10
+          },
           {
             "hash": "87f7b567fbbed0e98a1b0aaeba65cd36562b24a2",
             "message": "[#342] Fix inconsistent length of contribution bar (#346)",
@@ -1670,10 +4703,16 @@
         ]
       },
       {
-        "insertions": 7,
-        "deletions": 1,
+        "insertions": 14,
+        "deletions": 2,
         "date": "2018-10-03",
         "commitResults": [
+          {
+            "hash": "72750365e15bfb8906c90286b95d3841acf32f68",
+            "message": "[#354] granularity#week: fix url not using correct time gap (#355)",
+            "insertions": 7,
+            "deletions": 1
+          },
           {
             "hash": "72750365e15bfb8906c90286b95d3841acf32f68",
             "message": "[#354] granularity#week: fix url not using correct time gap (#355)",
@@ -1683,10 +4722,16 @@
         ]
       },
       {
-        "insertions": 19,
-        "deletions": 3,
+        "insertions": 38,
+        "deletions": 6,
         "date": "2018-10-05",
         "commitResults": [
+          {
+            "hash": "308e4078d91a69826909ade4b029a60ff68e4f19",
+            "message": "Fix error occurred from file change due to permission bits modification (#356)",
+            "insertions": 19,
+            "deletions": 3
+          },
           {
             "hash": "308e4078d91a69826909ade4b029a60ff68e4f19",
             "message": "Fix error occurred from file change due to permission bits modification (#356)",
@@ -1696,10 +4741,16 @@
         ]
       },
       {
-        "insertions": 9,
-        "deletions": 1,
+        "insertions": 18,
+        "deletions": 2,
         "date": "2018-10-10",
         "commitResults": [
+          {
+            "hash": "8229759332add46aa499d92a303d23e74a8b8e15",
+            "message": "[#363] Make the commits info analysis case insensitive (#364)",
+            "insertions": 9,
+            "deletions": 1
+          },
           {
             "hash": "8229759332add46aa499d92a303d23e74a8b8e15",
             "message": "[#363] Make the commits info analysis case insensitive (#364)",
@@ -1709,10 +4760,16 @@
         ]
       },
       {
-        "insertions": 2,
-        "deletions": 1,
+        "insertions": 4,
+        "deletions": 2,
         "date": "2018-10-21",
         "commitResults": [
+          {
+            "hash": "0a673c60e93fed29250210f0baa2a6d0995e5f99",
+            "message": "UserGuide: add commit reminder and instructions (#381)",
+            "insertions": 2,
+            "deletions": 1
+          },
           {
             "hash": "0a673c60e93fed29250210f0baa2a6d0995e5f99",
             "message": "UserGuide: add commit reminder and instructions (#381)",
@@ -1722,10 +4779,16 @@
         ]
       },
       {
-        "insertions": 46,
-        "deletions": 24,
+        "insertions": 92,
+        "deletions": 48,
         "date": "2018-11-10",
         "commitResults": [
+          {
+            "hash": "886dee0b1f164649e674d6c374b138d88acd1828",
+            "message": "[#395] Fix unhandled IllegalArgumentException in RepoConfiguration#update (#397)",
+            "insertions": 46,
+            "deletions": 24
+          },
           {
             "hash": "886dee0b1f164649e674d6c374b138d88acd1828",
             "message": "[#395] Fix unhandled IllegalArgumentException in RepoConfiguration#update (#397)",
@@ -1735,10 +4798,16 @@
         ]
       },
       {
-        "insertions": 7,
-        "deletions": 2,
+        "insertions": 14,
+        "deletions": 4,
         "date": "2018-11-12",
         "commitResults": [
+          {
+            "hash": "3d393c513a262d612629bf2eb6511cd04d6bad87",
+            "message": "[#391, #398, #399] Hotfix for outburst of RuntimeException (#400)",
+            "insertions": 7,
+            "deletions": 2
+          },
           {
             "hash": "3d393c513a262d612629bf2eb6511cd04d6bad87",
             "message": "[#391, #398, #399] Hotfix for outburst of RuntimeException (#400)",
@@ -1748,10 +4817,16 @@
         ]
       },
       {
-        "insertions": 717,
-        "deletions": 582,
+        "insertions": 1434,
+        "deletions": 1164,
         "date": "2018-12-22",
         "commitResults": [
+          {
+            "hash": "dda75347ebbc305da0d2e20f7fa07423b352b52d",
+            "message": "[#310] Apply SRP to various git commands (#408)",
+            "insertions": 717,
+            "deletions": 582
+          },
           {
             "hash": "dda75347ebbc305da0d2e20f7fa07423b352b52d",
             "message": "[#310] Apply SRP to various git commands (#408)",
@@ -1761,10 +4836,16 @@
         ]
       },
       {
-        "insertions": 2,
-        "deletions": 2,
+        "insertions": 4,
+        "deletions": 4,
         "date": "2019-01-12",
         "commitResults": [
+          {
+            "hash": "10fa5d269faf76e72d87aca9ded21babf9f4342e",
+            "message": "[#471] Fix broken link on ramps (#472)",
+            "insertions": 2,
+            "deletions": 2
+          },
           {
             "hash": "10fa5d269faf76e72d87aca9ded21babf9f4342e",
             "message": "[#471] Fix broken link on ramps (#472)",
@@ -1774,23 +4855,35 @@
         ]
       },
       {
-        "insertions": 230,
-        "deletions": 90,
+        "insertions": 49098,
+        "deletions": 55362,
         "date": "2019-01-22",
         "commitResults": [
           {
             "hash": "5ab03229f29254659ec48752178d5b156e900ef3",
             "message": "[#375] Config: add new parameter - author\u0027s email (#493)",
-            "insertions": 230,
-            "deletions": 90
+            "insertions": 24549,
+            "deletions": 27681
+          },
+          {
+            "hash": "5ab03229f29254659ec48752178d5b156e900ef3",
+            "message": "[#375] Config: add new parameter - author\u0027s email (#493)",
+            "insertions": 24549,
+            "deletions": 27681
           }
         ]
       },
       {
-        "insertions": 4,
-        "deletions": 2,
+        "insertions": 8,
+        "deletions": 4,
         "date": "2019-01-24",
         "commitResults": [
+          {
+            "hash": "2f183c3d5f294d020418dfe94200eda5891512c7",
+            "message": "[#399] Fix RuntimeException due to ambiguous argument in git rev-list (#505)",
+            "insertions": 4,
+            "deletions": 2
+          },
           {
             "hash": "2f183c3d5f294d020418dfe94200eda5891512c7",
             "message": "[#399] Fix RuntimeException due to ambiguous argument in git rev-list (#505)",
@@ -1800,10 +4893,16 @@
         ]
       },
       {
-        "insertions": 105,
-        "deletions": 69,
+        "insertions": 210,
+        "deletions": 138,
         "date": "2019-03-09",
         "commitResults": [
+          {
+            "hash": "7c06d6928ebf4ca1e1d662c60060c485b2903622",
+            "message": "[#587] Fix unoriented output messages (#593)",
+            "insertions": 105,
+            "deletions": 69
+          },
           {
             "hash": "7c06d6928ebf4ca1e1d662c60060c485b2903622",
             "message": "[#587] Fix unoriented output messages (#593)",
@@ -1813,86 +4912,308 @@
         ]
       },
       {
-        "insertions": 30,
-        "deletions": 10,
+        "insertions": 70,
+        "deletions": 20,
         "date": "2019-03-25",
         "commitResults": [
           {
             "hash": "19e32944d4c67ed0b6bdc5697016536cc9e17ed9",
             "message": "[#622] CsvParser#parse: fix error handling of `processLine` (#623)",
-            "insertions": 30,
+            "insertions": 35,
             "deletions": 10
+          },
+          {
+            "hash": "19e32944d4c67ed0b6bdc5697016536cc9e17ed9",
+            "message": "[#622] CsvParser#parse: fix error handling of `processLine` (#623)",
+            "insertions": 35,
+            "deletions": 10
+          }
+        ]
+      }
+    ],
+    "Mukesh Gadupudi": [
+      {
+        "insertions": 5,
+        "deletions": 5,
+        "date": "2018-12-18",
+        "commitResults": [
+          {
+            "hash": "3f11a52cf8fa684bd836a5008f2d5f6739818500",
+            "message": "[#199] Clean docs of confusing dates (#415)",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      }
+    ],
+    "Nadhira Salsabila": [
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2018-12-20",
+        "commitResults": [
+          {
+            "hash": "860c384462218b7f95ee52d0d2738524a0044605",
+            "message": "[#200] Console output: fix grammar and improve readability (#417)",
+            "insertions": 2,
+            "deletions": 2
           }
         ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "ongspxm": 696,
-    "AdityaA1998": 373,
-    "yamidark": 1774,
-    "yong24s": 1918,
-    "eugenepeh": 2220
+    "Tian Xueyan": 5,
+    "Ronak Lakhotia": 3,
+    "James Pang": 783,
+    "Yong Hao TENG": 56909,
+    "Ming Yi": 1096,
+    "eugenepeh": 543,
+    "He Zhenfeng": 1,
+    "Yash Chowdhary": 38,
+    "WANG CHAO": 1038,
+    "Ma Tanghao": 0,
+    "harryggg": 696,
+    "Damith C. Rajapakse": 180,
+    "Jin Minjia": 36,
+    "AdityaA1998": 498,
+    "Chelsey Ong": 409,
+    "Jason Chong": 490,
+    "Jun An": 66951,
+    "dlworldpeace": 16,
+    "Gilbert Emerson": 501,
+    "Metta Ong": 16097,
+    "Lee Jin Yao": 48967,
+    "apoorva17": 496,
+    "Eugene Peh": 409343,
+    "Mukesh Gadupudi": 0,
+    "Nadhira Salsabila": 0
   },
   "authorFileFormatContributionMap": {
-    "ongspxm": {
-      "gradle": 6,
-      "jade": 0,
-      "java": 93,
-      "js": 435,
-      "md": 82,
-      "scss": 80,
-      "yml": 0
+    "Tian Xueyan": {
+      "java": 5
     },
-    "AdityaA1998": {
-      "gradle": 2,
-      "jade": 0,
-      "java": 359,
-      "js": 2,
+    "Ronak Lakhotia": {
+      "md": 2,
+      "js": 1
+    },
+    "James Pang": {
+      "json": 64,
+      "yml": 1,
       "md": 5,
-      "scss": 5,
-      "yml": 0
+      "pug": 58,
+      "scss": 488,
+      "js": 129,
+      "java": 38
     },
-    "yamidark": {
-      "gradle": 28,
-      "jade": 0,
-      "java": 1593,
-      "js": 3,
-      "md": 149,
-      "scss": 0,
-      "yml": 1
-    },
-    "yong24s": {
+    "Yong Hao TENG": {
+      "gitignore": 3,
+      "yml": 41,
+      "json": 54711,
       "gradle": 35,
-      "jade": 0,
-      "java": 1712,
-      "js": 0,
-      "md": 130,
-      "scss": 0,
-      "yml": 41
+      "md": 132,
+      "csv": 21,
+      "js": 100,
+      "pug": 1,
+      "java": 1865
+    },
+    "Ming Yi": {
+      "csv": 11,
+      "md": 11,
+      "js": 29,
+      "java": 1045
     },
     "eugenepeh": {
-      "gradle": 8,
-      "jade": 0,
-      "java": 1463,
-      "js": 359,
+      "yml": 13,
+      "gradle": 4,
+      "xml": 381,
+      "sh": 74,
+      "properties": 3,
+      "java": 68
+    },
+    "He Zhenfeng": {
+      "md": 1
+    },
+    "Yash Chowdhary": {
+      "md": 22,
+      "js": 1,
+      "java": 12,
+      "json": 3
+    },
+    "WANG CHAO": {
+      "yml": 8,
+      "md": 116,
+      "gradle": 89,
+      "xml": 5,
+      "pug": 42,
+      "scss": 23,
+      "js": 41,
+      "java": 713,
+      "csv": 1
+    },
+    "Ma Tanghao": {},
+    "harryggg": {
+      "gitignore": 7,
+      "md": 37,
+      "gradle": 17,
+      "properties": 4,
+      "gradlew": 172,
+      "bat": 84,
+      "java": 346,
+      "json": 29
+    },
+    "Damith C. Rajapakse": {
+      "md": 180
+    },
+    "Jin Minjia": {
+      "gradle": 1,
+      "pug": 3,
+      "scss": 8,
+      "java": 24
+    },
+    "AdityaA1998": {
+      "gitignore": 1,
+      "gradle": 2,
+      "md": 5,
+      "scss": 5,
+      "js": 2,
+      "java": 359,
+      "json": 119,
+      "txt": 4,
+      "csv": 1
+    },
+    "Chelsey Ong": {
+      "md": 2,
+      "js": 190,
+      "pug": 24,
+      "scss": 13,
+      "java": 180
+    },
+    "Jason Chong": {
+      "js": 1,
+      "java": 444,
+      "json": 45
+    },
+    "Jun An": {
+      "gitignore": 1,
+      "md": 149,
+      "json": 65117,
+      "yml": 1,
+      "gradle": 28,
+      "js": 3,
+      "properties": 1,
+      "java": 1639,
+      "csv": 2,
+      "txt": 10
+    },
+    "dlworldpeace": {
+      "md": 1,
+      "java": 15
+    },
+    "Gilbert Emerson": {
+      "xml": 8,
+      "pug": 19,
+      "scss": 41,
+      "js": 122,
+      "java": 237,
+      "json": 74
+    },
+    "Metta Ong": {
+      "json": 15283,
+      "gitignore": 6,
+      "gradle": 6,
+      "md": 82,
+      "pug": 112,
+      "scss": 80,
+      "js": 435,
+      "java": 93
+    },
+    "Lee Jin Yao": {
+      "gradle": 3,
+      "md": 32,
+      "pug": 4,
+      "js": 35,
+      "java": 571,
+      "json": 48314,
+      "csv": 8
+    },
+    "apoorva17": {
+      "json": 153,
+      "gradle": 3,
+      "md": 7,
+      "pug": 48,
+      "scss": 46,
+      "js": 140,
+      "java": 90,
+      "csv": 9
+    },
+    "Eugene Peh": {
+      "yml": 17,
       "md": 129,
+      "csv": 47,
+      "gradle": 4,
+      "pug": 47,
       "scss": 231,
-      "yml": 30
-    }
+      "js": 359,
+      "java": 1400,
+      "json": 407097,
+      "txt": 12
+    },
+    "Mukesh Gadupudi": {},
+    "Nadhira Salsabila": {}
   },
   "authorContributionVariance": {
-    "ongspxm": 2921.3657,
-    "AdityaA1998": 360.62234,
-    "yamidark": 11436.279,
-    "yong24s": 3468.1587,
-    "eugenepeh": 3.84138464E8
+    "Tian Xueyan": 0.06257972,
+    "Ronak Lakhotia": 0.08679209,
+    "James Pang": 3170.2996,
+    "Yong Hao TENG": 7.5522E7,
+    "Ming Yi": 629.985,
+    "eugenepeh": 3674.815,
+    "He Zhenfeng": 0.12771282,
+    "Yash Chowdhary": 8.173643,
+    "WANG CHAO": 717.9004,
+    "Ma Tanghao": 0.0,
+    "harryggg": 4425668.0,
+    "Damith C. Rajapakse": 406.2871,
+    "Jin Minjia": 1.295918,
+    "AdityaA1998": 289.36194,
+    "Chelsey Ong": 112.252426,
+    "Jason Chong": 823.5188,
+    "Jun An": 1.1718532E8,
+    "dlworldpeace": 1.0061994,
+    "Gilbert Emerson": 31339.604,
+    "Metta Ong": 416495.22,
+    "Lee Jin Yao": 2.4512782E7,
+    "apoorva17": 267.60547,
+    "Eugene Peh": 8.0834157E8,
+    "Mukesh Gadupudi": 0.12771282,
+    "Nadhira Salsabila": 0.020434083
   },
   "authorDisplayNameMap": {
-    "ongspxm": "Metta",
-    "AdityaA1998": "Aditya",
-    "yamidark": "Jun An",
-    "yong24s": "Yong Hao",
-    "eugenepeh": "Eugene"
+    "Tian Xueyan": "Tian Xueyan",
+    "Ronak Lakhotia": "Ronak Lakhotia",
+    "James Pang": "James Pang",
+    "Yong Hao TENG": "Yong Hao TENG",
+    "Ming Yi": "Ming Yi",
+    "eugenepeh": "eugenepeh",
+    "He Zhenfeng": "He Zhenfeng",
+    "Yash Chowdhary": "Yash Chowdhary",
+    "WANG CHAO": "WANG CHAO",
+    "Ma Tanghao": "Ma Tanghao",
+    "harryggg": "harryggg",
+    "Damith C. Rajapakse": "Damith C. Rajapakse",
+    "Jin Minjia": "Jin Minjia",
+    "AdityaA1998": "AdityaA1998",
+    "Chelsey Ong": "Chelsey Ong",
+    "Jason Chong": "Jason Chong",
+    "Jun An": "Jun An",
+    "dlworldpeace": "dlworldpeace",
+    "Gilbert Emerson": "Gilbert Emerson",
+    "Metta Ong": "Metta Ong",
+    "Lee Jin Yao": "Lee Jin Yao",
+    "apoorva17": "apoorva17",
+    "Eugene Peh": "Eugene Peh",
+    "Mukesh Gadupudi": "Mukesh Gadupudi",
+    "Nadhira Salsabila": "Nadhira Salsabila"
   }
 }

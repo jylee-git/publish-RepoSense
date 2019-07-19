@@ -1,6 +1,6 @@
 {
   "repoSenseVersion": "e8bf034aaf",
-  "reportGeneratedTime": "Fri Jul 19 08:41:15 2019 UTC",
+  "reportGeneratedTime": "Fri Jul 19 08:41:03 2019 UTC",
   "repos": [
     {
       "location": {
@@ -12,6 +12,6 @@
       "displayName": "reposense_RepoSense_master"
     }
   ],
-  "sinceDate": "2018-05-03",
+  "sinceDate": "2017-05-28",
   "untilDate": "2019-07-19"
 }
