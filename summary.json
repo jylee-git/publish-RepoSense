@@ -1,6 +1,6 @@
 {
-  "repoSenseVersion": "e8bf034aaf",
-  "reportGeneratedTime": "Fri Jul 19 08:41:03 2019 UTC",
+  "repoSenseVersion": "e2a938abbd",
+  "reportGeneratedTime": "Sat Jul 20 08:35:29 2019 UTC",
   "repos": [
     {
       "location": {
@@ -9,9 +9,10 @@
         "organization": "reposense"
       },
       "branch": "master",
-      "displayName": "reposense_RepoSense_master"
+      "displayName": "reposense/RepoSense[master]",
+      "outputFolderName": "reposense_RepoSense_master"
     }
   ],
   "sinceDate": "2017-05-28",
-  "untilDate": "2019-07-19"
+  "untilDate": "2019-07-20"
 }

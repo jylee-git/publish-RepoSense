@@ -2578,6 +2578,19 @@
             "deletions": 5
           }
         ]
+      },
+      {
+        "insertions": 55,
+        "deletions": 27,
+        "date": "2019-07-20",
+        "commitResults": [
+          {
+            "hash": "e2a938abbd053464ffd9fba61692c962eedf52cf",
+            "message": "[#661] Change chart title format (#802)",
+            "insertions": 55,
+            "deletions": 27
+          }
+        ]
       }
     ],
     "AdityaA1998": [
@@ -4966,25 +4979,25 @@
     "Tian Xueyan": 5,
     "Ronak Lakhotia": 3,
     "James Pang": 783,
-    "Yong Hao TENG": 56909,
-    "Ming Yi": 1096,
+    "Yong Hao TENG": 56906,
+    "Ming Yi": 1092,
     "eugenepeh": 543,
-    "He Zhenfeng": 1,
+    "He Zhenfeng": 0,
     "Yash Chowdhary": 38,
     "WANG CHAO": 1038,
     "Ma Tanghao": 0,
     "harryggg": 696,
     "Damith C. Rajapakse": 180,
-    "Jin Minjia": 36,
+    "Jin Minjia": 91,
     "AdityaA1998": 498,
     "Chelsey Ong": 409,
     "Jason Chong": 490,
     "Jun An": 66951,
     "dlworldpeace": 16,
-    "Gilbert Emerson": 501,
-    "Metta Ong": 16097,
+    "Gilbert Emerson": 486,
+    "Metta Ong": 16095,
     "Lee Jin Yao": 48967,
-    "apoorva17": 496,
+    "apoorva17": 494,
     "Eugene Peh": 409343,
     "Mukesh Gadupudi": 0,
     "Nadhira Salsabila": 0
@@ -5015,13 +5028,13 @@
       "csv": 21,
       "js": 100,
       "pug": 1,
-      "java": 1865
+      "java": 1862
     },
     "Ming Yi": {
       "csv": 11,
       "md": 11,
       "js": 29,
-      "java": 1045
+      "java": 1041
     },
     "eugenepeh": {
       "yml": 13,
@@ -5031,9 +5044,7 @@
       "properties": 3,
       "java": 68
     },
-    "He Zhenfeng": {
-      "md": 1
-    },
+    "He Zhenfeng": {},
     "Yash Chowdhary": {
       "md": 22,
       "js": 1,
@@ -5067,9 +5078,12 @@
     },
     "Jin Minjia": {
       "gradle": 1,
+      "md": 1,
       "pug": 3,
       "scss": 8,
-      "java": 24
+      "js": 4,
+      "java": 44,
+      "json": 30
     },
     "AdityaA1998": {
       "gitignore": 1,
@@ -5116,7 +5130,7 @@
       "scss": 41,
       "js": 122,
       "java": 237,
-      "json": 74
+      "json": 59
     },
     "Metta Ong": {
       "json": 15283,
@@ -5125,7 +5139,7 @@
       "md": 82,
       "pug": 112,
       "scss": 80,
-      "js": 435,
+      "js": 433,
       "java": 93
     },
     "Lee Jin Yao": {
@@ -5144,7 +5158,7 @@
       "pug": 48,
       "scss": 46,
       "js": 140,
-      "java": 90,
+      "java": 88,
       "csv": 9
     },
     "Eugene Peh": {
@@ -5163,31 +5177,31 @@
     "Nadhira Salsabila": {}
   },
   "authorContributionVariance": {
-    "Tian Xueyan": 0.06257972,
-    "Ronak Lakhotia": 0.08679209,
-    "James Pang": 3170.2996,
-    "Yong Hao TENG": 7.5522E7,
-    "Ming Yi": 629.985,
-    "eugenepeh": 3674.815,
-    "He Zhenfeng": 0.12771282,
-    "Yash Chowdhary": 8.173643,
-    "WANG CHAO": 717.9004,
+    "Tian Xueyan": 0.062420372,
+    "Ronak Lakhotia": 0.08657132,
+    "James Pang": 3162.2324,
+    "Yong Hao TENG": 7.5330656E7,
+    "Ming Yi": 628.3926,
+    "eugenepeh": 3665.4902,
+    "He Zhenfeng": 0.12738764,
+    "Yash Chowdhary": 8.152827,
+    "WANG CHAO": 716.0802,
     "Ma Tanghao": 0.0,
-    "harryggg": 4425668.0,
-    "Damith C. Rajapakse": 406.2871,
-    "Jin Minjia": 1.295918,
-    "AdityaA1998": 289.36194,
-    "Chelsey Ong": 112.252426,
-    "Jason Chong": 823.5188,
-    "Jun An": 1.1718532E8,
-    "dlworldpeace": 1.0061994,
-    "Gilbert Emerson": 31339.604,
-    "Metta Ong": 416495.22,
-    "Lee Jin Yao": 2.4512782E7,
-    "apoorva17": 267.60547,
-    "Eugene Peh": 8.0834157E8,
-    "Mukesh Gadupudi": 0.12771282,
-    "Nadhira Salsabila": 0.020434083
+    "harryggg": 4414288.5,
+    "Damith C. Rajapakse": 405.25302,
+    "Jin Minjia": 9.844074,
+    "AdityaA1998": 288.6244,
+    "Chelsey Ong": 111.96797,
+    "Jason Chong": 821.42206,
+    "Jun An": 1.16885296E8,
+    "dlworldpeace": 1.003638,
+    "Gilbert Emerson": 31259.549,
+    "Metta Ong": 415435.3,
+    "Lee Jin Yao": 2.445029E7,
+    "apoorva17": 266.92722,
+    "Eugene Peh": 8.0628723E8,
+    "Mukesh Gadupudi": 0.12738764,
+    "Nadhira Salsabila": 0.020382056
   },
   "authorDisplayNameMap": {
     "Tian Xueyan": "Tian Xueyan",
