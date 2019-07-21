@@ -307,6 +307,25 @@
             "deletions": 754
           }
         ]
+      },
+      {
+        "insertions": 11,
+        "deletions": 1,
+        "date": "2019-07-20",
+        "commitResults": [
+          {
+            "hash": "174d06f15417b6feb7fc44bc608a478518a66b34",
+            "message": "[#764] Toolbar: fix search functionality for Safari users (#797)",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "f6520543bcb0c7ef1d0365a74a87958caca89e92",
+            "message": "[#763] v_summary.js: remove redundant calls to getFiltered() (#800)",
+            "insertions": 9,
+            "deletions": 0
+          }
+        ]
       }
     ],
     "Yong Hao TENG": [
@@ -4978,7 +4997,7 @@
   "authorFinalContributionMap": {
     "Tian Xueyan": 5,
     "Ronak Lakhotia": 3,
-    "James Pang": 783,
+    "James Pang": 794,
     "Yong Hao TENG": 56906,
     "Ming Yi": 1092,
     "eugenepeh": 543,
@@ -4995,7 +5014,7 @@
     "Jun An": 66951,
     "dlworldpeace": 16,
     "Gilbert Emerson": 486,
-    "Metta Ong": 16095,
+    "Metta Ong": 16094,
     "Lee Jin Yao": 48967,
     "apoorva17": 494,
     "Eugene Peh": 409343,
@@ -5014,9 +5033,9 @@
       "json": 64,
       "yml": 1,
       "md": 5,
-      "pug": 58,
+      "pug": 59,
       "scss": 488,
-      "js": 129,
+      "js": 139,
       "java": 38
     },
     "Yong Hao TENG": {
@@ -5137,7 +5156,7 @@
       "gitignore": 6,
       "gradle": 6,
       "md": 82,
-      "pug": 112,
+      "pug": 111,
       "scss": 80,
       "js": 433,
       "java": 93
@@ -5179,7 +5198,7 @@
   "authorContributionVariance": {
     "Tian Xueyan": 0.062420372,
     "Ronak Lakhotia": 0.08657132,
-    "James Pang": 3162.2324,
+    "James Pang": 3162.3298,
     "Yong Hao TENG": 7.5330656E7,
     "Ming Yi": 628.3926,
     "eugenepeh": 3665.4902,
