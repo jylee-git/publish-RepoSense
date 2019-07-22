@@ -326,6 +326,31 @@
             "deletions": 0
           }
         ]
+      },
+      {
+        "insertions": 49,
+        "deletions": 26,
+        "date": "2019-07-22",
+        "commitResults": [
+          {
+            "hash": "c8f248d9283fe86270e1f2906a7812882742bff2",
+            "message": "[#724] Modify zoom-in feature to based on selected granularity (#729)",
+            "insertions": 42,
+            "deletions": 19
+          },
+          {
+            "hash": "eb0e20f6cfda5485770df37e8f387082452d88c7",
+            "message": "[#780] v_summary.js: remove Vue watcher for repos (#783)",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "790840f5c3130b829cb655609d5e481b5932991d",
+            "message": "[#820] Cypress: add sinceDate in command arguments (#821)",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "Yong Hao TENG": [
@@ -4997,8 +5022,8 @@
   "authorFinalContributionMap": {
     "Tian Xueyan": 5,
     "Ronak Lakhotia": 3,
-    "James Pang": 794,
-    "Yong Hao TENG": 56906,
+    "James Pang": 842,
+    "Yong Hao TENG": 56905,
     "Ming Yi": 1092,
     "eugenepeh": 543,
     "He Zhenfeng": 0,
@@ -5014,10 +5039,10 @@
     "Jun An": 66951,
     "dlworldpeace": 16,
     "Gilbert Emerson": 486,
-    "Metta Ong": 16094,
-    "Lee Jin Yao": 48967,
+    "Metta Ong": 16077,
+    "Lee Jin Yao": 48965,
     "apoorva17": 494,
-    "Eugene Peh": 409343,
+    "Eugene Peh": 409338,
     "Mukesh Gadupudi": 0,
     "Nadhira Salsabila": 0
   },
@@ -5032,17 +5057,18 @@
     "James Pang": {
       "json": 64,
       "yml": 1,
+      "gradle": 1,
       "md": 5,
-      "pug": 59,
-      "scss": 488,
-      "js": 139,
+      "pug": 66,
+      "scss": 504,
+      "js": 163,
       "java": 38
     },
     "Yong Hao TENG": {
       "gitignore": 3,
       "yml": 41,
       "json": 54711,
-      "gradle": 35,
+      "gradle": 34,
       "md": 132,
       "csv": 21,
       "js": 100,
@@ -5156,16 +5182,16 @@
       "gitignore": 6,
       "gradle": 6,
       "md": 82,
-      "pug": 111,
+      "pug": 108,
       "scss": 80,
-      "js": 433,
+      "js": 419,
       "java": 93
     },
     "Lee Jin Yao": {
       "gradle": 3,
       "md": 32,
       "pug": 4,
-      "js": 35,
+      "js": 33,
       "java": 571,
       "json": 48314,
       "csv": 8
@@ -5185,9 +5211,9 @@
       "md": 129,
       "csv": 47,
       "gradle": 4,
-      "pug": 47,
+      "pug": 46,
       "scss": 231,
-      "js": 359,
+      "js": 355,
       "java": 1400,
       "json": 407097,
       "txt": 12
@@ -5196,31 +5222,31 @@
     "Nadhira Salsabila": {}
   },
   "authorContributionVariance": {
-    "Tian Xueyan": 0.062420372,
-    "Ronak Lakhotia": 0.08657132,
-    "James Pang": 3162.3298,
-    "Yong Hao TENG": 7.5330656E7,
-    "Ming Yi": 628.3926,
-    "eugenepeh": 3665.4902,
-    "He Zhenfeng": 0.12738764,
-    "Yash Chowdhary": 8.152827,
-    "WANG CHAO": 716.0802,
+    "Tian Xueyan": 0.062261853,
+    "Ronak Lakhotia": 0.08635167,
+    "James Pang": 3160.9119,
+    "Yong Hao TENG": 7.5138608E7,
+    "Ming Yi": 626.80444,
+    "eugenepeh": 3656.0725,
+    "He Zhenfeng": 0.12706414,
+    "Yash Chowdhary": 8.132116,
+    "WANG CHAO": 714.2779,
     "Ma Tanghao": 0.0,
-    "harryggg": 4414288.5,
-    "Damith C. Rajapakse": 405.25302,
-    "Jin Minjia": 9.844074,
-    "AdityaA1998": 288.6244,
-    "Chelsey Ong": 111.96797,
-    "Jason Chong": 821.42206,
-    "Jun An": 1.16885296E8,
-    "dlworldpeace": 1.003638,
-    "Gilbert Emerson": 31259.549,
-    "Metta Ong": 415435.3,
-    "Lee Jin Yao": 2.445029E7,
-    "apoorva17": 266.92722,
-    "Eugene Peh": 8.0628723E8,
-    "Mukesh Gadupudi": 0.12738764,
-    "Nadhira Salsabila": 0.020382056
+    "harryggg": 4403155.5,
+    "Damith C. Rajapakse": 404.22415,
+    "Jin Minjia": 9.8191,
+    "AdityaA1998": 287.8979,
+    "Chelsey Ong": 111.68493,
+    "Jason Chong": 819.33606,
+    "Jun An": 1.16590536E8,
+    "dlworldpeace": 1.0010896,
+    "Gilbert Emerson": 31180.17,
+    "Metta Ong": 414380.8,
+    "Lee Jin Yao": 2.438816E7,
+    "apoorva17": 266.25272,
+    "Eugene Peh": 8.0424288E8,
+    "Mukesh Gadupudi": 0.12706414,
+    "Nadhira Salsabila": 0.020330295
   },
   "authorDisplayNameMap": {
     "Tian Xueyan": "Tian Xueyan",
